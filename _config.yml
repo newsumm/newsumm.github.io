@@ -1,15 +1,14 @@
 theme: jekyll-theme-architect
 title: NeurIPS 2021 Workshop
 description: NeurIPS Workshop on NLP and Speech
-url: https://neurips2021-nlp.github.io/
-baseurl: /neurips2021-nlp
+
 
 organizers: home
 organizers: organizers
 about: about
 
 # Build settings
-theme: jekyll-theme-architect
+theme: minima
 plugins:
   - jekyll-feed
 
