@@ -35,19 +35,19 @@ Given the increasing interest in TML, the development of models that takes into 
 <h2 class="blackpar_title" id="keynotes">Keynote Speakers</h2>
 <div class="row">
 	<div class="card column">
-	  <img src="/images/bengio.jpg" alt="Yoshua Bengio" style="width:100%; border-radius:50%;">
+	  <img src="/images/boxing.jpg" alt="Boxing Chen" style="width:100%; border-radius:50%;">
 	  <div class="container">
 		<center>
 		<h4>
-			<b>Prof.<br>Yoshua Bengio</b>
+			<b>X.<br>Boxing Chen</b>
 			<br>
-			MILA
+			Alibaba
 		</h4>
 		</center>
 	  </div>
 	</div>
 	<div class="card column">
-	  <img src="/images/img_avatar.png" alt="Xin Jiang" style="width:100%; border-radius:50%;">
+	  <img src="/images/xinjiang.jpg" alt="Xin Jiang" style="width:100%; border-radius:50%;">
 	  <div class="container">
 		<center>
 		<h4>
@@ -59,55 +59,31 @@ Given the increasing interest in TML, the development of models that takes into 
 	  </div>
 	</div>
 	<div class="card column">
-	  <img src="/images/img_avatar.png" alt="someone" style="width:100%; border-radius:50%;">
+	  <img src="/images/norouzi.jpg" alt="Mohammad Norouzi" style="width:100%; border-radius:50%;">
 	  <div class="container">
 		<center>
 		<h4>
-			<b>Prof.<br>Someone</b>
+			<b>Dr.<br>Mohammad Norouzi</b>
 			<br>
-			Amazon
+			Google Brain
 		</h4>
 		</center>
 	  </div>
 	</div>
 	<div class="card column">
-	  <img src="/images/img_avatar.png" alt="someone" style="width:100%; border-radius:50%;">
+	  <img src="/images/zettlemoyer.jpg" alt="Luke Zettlemoyer" style="width:100%; border-radius:50%;">
 	  <div class="container">
 		<center>
 		<h4>
-			<b>Prof.<br>Someone</b>
+			<b>X.<br>Luke Zettlemoyer</b>
 			<br>
-			Google
+			University of Washington and Facebook
 		</h4>
 		</center>
 	  </div>
 	</div>
 </div>
 <div class="row">
-	<div class="card column">
-	  <img src="/images/img_avatar.png" alt="someone" style="width:100%; border-radius:50%;">
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Prof.<br>Someone</b>
-			<br>
-			Microsoft
-		</h4>
-		</center>
-	  </div>
-	</div>
-	<div class="card column">
-	  <img src="/images/img_avatar.png" alt="someone" style="width:100%; border-radius:50%;">
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Prof.<br>Someone</b>
-			<br>
-			Darwin AI
-		</h4>
-		</center>
-	  </div>
-	</div>
 	<div class="card column">
 	  <img src="/images/sameer_singh.jpg" alt="Saneer Singh" style="width:100%; border-radius:50%;">
 	  <div class="container">
@@ -121,20 +97,6 @@ Given the increasing interest in TML, the development of models that takes into 
 	  </div>
 	</div>
 	<div class="card column">
-	  <img src="/images/tiago_falk.png" alt="Tiago Falk" style="width:100%; border-radius:50%;">
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Prof.<br>Tiago Falk</b>
-			<br>
-			INRS
-		</h4>
-		</center>
-	  </div>
-	</div>
-</div>
-<div class="row">
-	<div class="card column" style="margin-left:25%;">
 	  <img src="/images/xu_sun.jpg" alt="Xu Sun" style="width:100%; border-radius:50%;">
 	  <div class="container">
 		<center>
@@ -147,13 +109,25 @@ Given the increasing interest in TML, the development of models that takes into 
 	  </div>
 	</div>
 	<div class="card column">
-	  <img src="/images/img_avatar.png" alt="someone" style="width:100%; border-radius:50%;">
+	  <img src="/images/kevin.jpg" alt="Kevin Duh" style="width:100%; border-radius:50%;">
 	  <div class="container">
 		<center>
 		<h4>
-			<b>Prof.<br>Someone</b>
+			<b>Prof.<br>Kevin Duh</b>
 			<br>
-			Thomson Reuiters
+			Johns Hopkins University
+		</h4>
+		</center>
+	  </div>
+	</div>	
+	<div class="card column">
+	  <img src="/images/danqi_2019.jpg" alt="Danqi Chen" style="width:100%; border-radius:50%;">
+	  <div class="container">
+		<center>
+		<h4>
+			<b>X.<br>Danqi Chen</b>
+			<br>
+			Assistant professor, Princeton University
 		</h4>
 		</center>
 	  </div>
