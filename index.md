@@ -12,11 +12,10 @@ layout: home
 <h2 class="blackpar_title">Efficient NLP and Speech Models - Training and Inference</h2>
 <p>
 
-Despite the great success of deep neural networks in Natural Language Processing (NLP), including speech related tasks, over-parameterization can make it very difficult to deploy such models on edge devices due to their limited computational power, memory and storage available. To overcome that, a new research field, namely Tiny Machine Learning (TML), arises with the goal to enable the design and development of Machine Learning (ML) models meant to be deployed on Embedded Systems and Intent-of-Things. For instance, model compression techniques such as quantization, pruning, layer decomposition and knowledge distillation (KD) aim at reducing the number of parameters of these models, thus optimizing memory requirements and efficiency. 
-
+Despite the great success of deep neural networks in Natural Language Processing (NLP), including speech-related tasks, over-parameterization can make it very difficult to deploy such models on edge devices due to their limited computational power, memory, and storage available. To overcome that, a new research field, namely Tiny Machine Learning (TML), arises intending to enable the design and development of Machine Learning (ML) models meant to be deployed on Embedded Systems and Intent-of-Things. For instance, model compression techniques such as quantization, pruning, layer decomposition, and knowledge distillation (KD) aim at reducing the number of parameters of these models, thus optimizing memory requirements and efficiency.
 <br><br>
+Often, these models require pre-training on a huge amount of labeled and unlabeled data, which can be an expensive process. Even a small modification to the model requires the user to redo the expensive pre-training process. Furthermore, usually, the final hardware host is not taken into account in the design and training of the models. Another aspect is multimodal systems which can learn language and speech modalities at the same time. Since the emergence of pre-trained language models which led to a great breakthrough in the NLP domain, increasing the size of these models has become a mainstream approach for improving the performance of these models.
 
-Often, these models require pre-training on huge amount of labeled and unlabeled data, which can be an expensive process. Even a small modification to the model requires the user to redo the expensive pre-training process. Furthermore, usually the final hardware host is not taken into account in the design and training of the models. Another aspect is multimodal systems which can learn language and speech modalities at the same time. Since emergence of pre-trained language models which led to a great breakthrough in the NLP domain, increasing the size of these models has become a mainstream approach for improving the performance of these models. 
 
 <!--	
 The workshop will take place on <span class="blackhighlighted">DATE, 2021</span>. 
@@ -29,7 +28,7 @@ Note that to attend the event, a registration on the ICLR website is required. A
 <br><br>
 <h2 class="blackpar_title" id="Overview">Overview</h2>
 <p>
-Given the increasing interest on TML, the development of models that takes into consideration hardware and computation constraints allowing reducing the computational load and the memory demand of Machine and Deep Learning (DL) algorithms is mandatory. This workshop focuses particularly on the efficiency of NLP and Speech models. 
+Given the increasing interest in TML, the development of models that takes into consideration hardware and computation constraints allowing the reduction of computational load and memory demand are mandatory. This workshop focuses particularly on the efficiency of NLP and Speech models.
 </p>
 <br><br>
 <!--Keynote Spearkers-->
