@@ -162,7 +162,7 @@ Given the increasing interest on TML, the development of models that takes into 
 </div>
 
 <!-- Schedule -->
-<h2 class="par_title" id="Schedule">Schedule</h2>
+<h2 class="blackpar_title" id="Schedule">Schedule</h2>
 <div id="cal">
 	<div class="month">      
 	  <ul class="uls">
