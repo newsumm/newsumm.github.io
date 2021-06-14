@@ -27,13 +27,13 @@ Note that to attend the event, a registration on the ICLR website is required. A
 <br>
 -->
 <br><br>
-<h2 class="blackpar_title" id="Overview">Aim of workshop</h2>
+<h2 class="blackpar_title" id="Overview">Overview</h2>
 <p>
 Given the increasing interest on TML, the development of models that takes into consideration hardware and computation constraints allowing reducing the computational load and the memory demand of Machine and Deep Learning (DL) algorithms is mandatory. This workshop focuses particularly on the efficiency of NLP and Speech models. 
 </p>
 <br><br>
 <!--Keynote Spearkers-->
-<h2 class="par_title" id="keynotes">Keynote Speakers</h2>
+<h2 class="blackpar_title" id="keynotes">Keynote Speakers</h2>
 <div class="row">
 	<div class="card column">
 	  <img src="/images/bengio.jpg" alt="Yoshua Bengio" style="width:100%; border-radius:50%;">
@@ -223,9 +223,10 @@ Given the increasing interest on TML, the development of models that takes into 
 <div><div class='box' id="task1"></div><span class="task_name">task 1 bla bla bla</span></div>
 <br>
 <div><div class='box' id="task2"></div><span class="task_name">task 2 bla bla bla</span></div>
+<br><br>
 
 <!-- Organizers -->
-<h2 class="par_title" id="Organizers">Organizers</h2>
+<h2 class="blackpar_title" id="Organizers">Organizers</h2>
 <div class="row">
 	<div class="card column">
 	  <img src="/images/pascal_poupart.jpg" alt="Pascal Poupart" style="width:100%; border-radius:50%;">
