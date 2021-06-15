@@ -134,74 +134,35 @@ Given the increasing interest in TML, the development of models that takes into 
 	</div>	
 </div>
 
-<!-- Schedule -->
-<h2 class="blackpar_title" id="Schedule">Schedule</h2>
-<div id="cal">
-	<div class="month">      
-	  <ul class="uls">
-		<!--<li class="prev">&#10094;</li>
-		<li class="next">&#10095;</li>-->
-		<li>
-		  June<br>
-		  <span style="font-size:18px">2021</span>
-		</li>
-	  </ul>
-	</div>
-
-	<ul class="weekdays uls">
-	  <li>Mo</li>
-	  <li>Tu</li>
-	  <li>We</li>
-	  <li>Th</li>
-	  <li>Fr</li>
-	  <li>Sa</li>
-	  <li>Su</li>
-	</ul>
-
-	<ul class="days uls">
-	  <li></li>
-	  <li>1</li>
-	  <li>2</li>
-	  <li>3</li>
-	  <li>4</li>
-	  <li>5</li>
-	  <li>6</li>
-	  <li>7</li>
-	  <li>8</li>
-	  <li>9</li>
-	  <li><span class="task1">10</span></li>
-	  <li>11</li>
-	  <li>12</li>
-	  <li>13</li>
-	  <li>14</li>
-	  <li>15</li>
-	  <li>16</li>
-	  <li>17</li>
-	  <li>18</li>
-	  <li>19</li>
-	  <li><span class="task2">20</span></li>
-	  <li>21</li>
-	  <li>22</li>
-	  <li>23</li>
-	  <li>24</li>
-	  <li>25</li>
-	  <li>26</li>
-	  <li>27</li>
-	  <li>28</li>
-	  <li>29</li>
-	  <li>30</li>
-	</ul>
-</div>
-<br>
-<div><div class='box' id="task1"></div><span class="task_name">task 1 bla bla bla</span></div>
-<br>
-<div><div class='box' id="task2"></div><span class="task_name">task 2 bla bla bla</span></div>
-<br><br>
-
+<br> <br>
 <!-- Organizers -->
 <h2 class="blackpar_title" id="Organizers">Organizers</h2>
 <div class="row">
 	<div class="card column">
+	  <img src="/images/Mehdi_Rezagholizadeh.jpg" alt="Mehdi Rezagholizadeh" style="width:100%; border-radius:50%;">
+	  <div class="container" >
+		<center>
+		<h4>
+			<b>Mehdi Rezagholizadeh</b>
+			<br>
+			Huawei
+		</h4>
+		</center>
+	  </div>
+	</div>
+	<div class="card column">
+	  <img src="/images/lili_mou.jpg" alt="Lili Mou" style="width:100%; border-radius:50%;">
+	  <div class="container">
+		<center>
+		<h4>
+			<b>Prof.<br>Lili Mou</b>
+			<br>
+			U Alberta
+		</h4>
+		</center>
+	  </div>
+	</div>
+	<div class="card column" >
 	  <img src="/images/pascal_poupart.jpg" alt="Pascal Poupart" style="width:100%; border-radius:50%;">
 	  <div class="container">
 		<center>
@@ -213,6 +174,8 @@ Given the increasing interest in TML, the development of models that takes into 
 		</center>
 	  </div>
 	</div>
+</div>
+<div class="row">
 	<div class="card column">
 	  <img src="/images/ali_ghodsi.jpg" alt="Ali Ghodsi" style="width:100%; border-radius:50%;">
 	  <div class="container">
@@ -238,32 +201,6 @@ Given the increasing interest in TML, the development of models that takes into 
 	  </div>
 	</div>
 	<div class="card column">
-	  <img src="/images/Mehdi_Rezagholizadeh.jpg" alt="Mehdi Rezagholizadeh" style="width:100%; border-radius:50%;">
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Mehdi Rezagholizadeh</b>
-			<br>
-			Huawei
-		</h4>
-		</center>
-	  </div>
-	</div>
-</div>
-<div class="row">
-	<div class="card column" style="margin-left:13%;">
-	  <img src="/images/lili_mou.jpg" alt="Lili Mou" style="width:100%; border-radius:50%;">
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Prof.<br>Lili Mou</b>
-			<br>
-			U Alberta
-		</h4>
-		</center>
-	  </div>
-	</div>
-	<div class="card column">
 	  <img src="/images/wei_xu.png" alt="Wei Xu" style="width:100%; border-radius:50%;">
 	  <div class="container">
 		<center>
@@ -275,16 +212,12 @@ Given the increasing interest in TML, the development of models that takes into 
 		</center>
 	  </div>
 	</div>
-	<div class="card column">
-	  <img src="/images/peyman_passban.jpg" alt="Peyman Passban" style="width:100%; border-radius:50%;">
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Peyman Passban</b>
-			<br>
-			Amazon
-		</h4>
-		</center>
-	  </div>
-	</div>
 </div>
+
+<br><br>
+<!-- Technical Committee -->
+<h2 class="blackpar_title" id="Technical Committee">Technical Committee</h2>
+
+<br><br>
+<!-- Call for Papers -->
+<h2 class="blackpar_title" id="Call for Papers">Call for Papers</h2>
