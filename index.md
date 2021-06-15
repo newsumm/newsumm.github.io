@@ -36,8 +36,8 @@ Given the increasing interest in TML, the development of models that takes into 
 <h2 class="blackpar_title" id="Call for Papers">Call for Papers</h2>
 
 <br><br>
-<!--Keynote Spearkers-->
-<h2 class="blackpar_title" id="keynotes">Keynote Speakers</h2>
+<!--Confirmed Spearkers-->
+<h2 class="blackpar_title" id="Confirmed Spearkers">Confirmed Spearkers</h2>
 <div class="row">
 	<div class="card column">
 	  <img src="/images/boxing.jpg" alt="Boxing Chen" style="width:100%; border-radius:50%;">
@@ -150,7 +150,6 @@ Given the increasing interest in TML, the development of models that takes into 
 		<h4>
 			<b>Mehdi Rezagholizadeh</b>
 			<br>
-			Huawei
 		</h4>
 		</center>
 	  </div>
