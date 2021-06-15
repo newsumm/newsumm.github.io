@@ -31,6 +31,11 @@ Note that to attend the event, a registration on the ICLR website is required. A
 Given the increasing interest in TML, the development of models that takes into consideration hardware and computation constraints allowing the reduction of computational load and memory demand are mandatory. This workshop focuses particularly on the efficiency of NLP and Speech models.
 </p>
 <br><br>
+
+<!-- Call for Papers -->
+<h2 class="blackpar_title" id="Call for Papers">Call for Papers</h2>
+
+<br><br>
 <!--Keynote Spearkers-->
 <h2 class="blackpar_title" id="keynotes">Keynote Speakers</h2>
 <div class="row">
@@ -218,6 +223,3 @@ Given the increasing interest in TML, the development of models that takes into 
 <!-- Technical Committee -->
 <h2 class="blackpar_title" id="Technical Committee">Technical Committee</h2>
 
-<br><br>
-<!-- Call for Papers -->
-<h2 class="blackpar_title" id="Call for Papers">Call for Papers</h2>

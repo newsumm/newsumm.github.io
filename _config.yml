@@ -10,10 +10,10 @@ description: > # this means to ignore newlines until "show_excerpts:"
 # Customized links for main menu
 header_menu:
   Overview:
+  Call for Papers:
   Organizers:
   keynotes:
   Technical Committee:
-  Call for Papers:
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
