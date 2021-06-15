@@ -143,7 +143,7 @@ Given the increasing interest in TML, the development of models that takes into 
 <!-- Organizers -->
 <h2 class="blackpar_title" id="Organizers">Organizers</h2>
 <div class="row">
-	<div class="card column">
+	<div class="card column" style="margin-left:13%;">
 	  <img src="/images/Mehdi_Rezagholizadeh.jpg" alt="Mehdi Rezagholizadeh" style="width:100%; border-radius:50%;">
 	  <div class="container" >
 		<center>
@@ -181,7 +181,7 @@ Given the increasing interest in TML, the development of models that takes into 
 	</div>
 </div>
 <div class="row">
-	<div class="card column">
+	<div class="card column" style="margin-left:13%;">
 	  <img src="/images/ali_ghodsi.jpg" alt="Ali Ghodsi" style="width:100%; border-radius:50%;">
 	  <div class="container">
 		<center>
