@@ -222,3 +222,26 @@ Given the increasing interest in TML, the development of models that takes into 
 <!-- Technical Committee -->
 <h2 class="blackpar_title" id="Technical Committee">Technical Committee</h2>
 
+<ul>
+	<li>Prof. Bang Liu (UDM)</li>
+	<li>Ivan Kobyzev (Huawei)</li>
+	<li>Shailza Jolly (TU Kaiserslautern)</li>
+	<li>Jingjing Xu (ByteDance)</li>
+	<li>Ali Vahdat (Thomson Reuters)</li>
+	<li>Kevin Duh</li>
+	<li>Shohreh Shaghaghian (Thomson Reuters)</li>
+	<li>Borna Jafarpour (Thomson Reuters)</li>
+	<li>Dr. Wulong Liu (Huawei)</li>
+	<li>Ahmad Rashid (Huawei)</li>
+	<li>Peyman Passban (Amazon)</li>
+	<li>Jad Kabbara (MILA)</li>
+	<li>Aref Jafari (U Waterloo)</li>
+	<li>Md. Akmal Haidar (Huawei)</li>
+	<li>Vasileios Lioutas (UBC)</li>
+	<li>Malik H. Altakrori (McGill)</li>
+	<li>Anderson R. Avila (Huawei)</li>
+	<li>Makesh (MILA)</li>
+	<li>Fattane Zarrinkalam (Thomson Reuters)</li>
+	<li>Nasrin Taghizadeh (Univ. of Tehran)</li>
+	<li>Prasanna Parthasarathi (MILA)</li>
+</ul>
