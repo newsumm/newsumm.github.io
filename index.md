@@ -9,7 +9,10 @@ layout: home
 ---
 
 <!-- <img src="/images/deep.jpg"> -->
-<h2 class="blackpar_title">Efficient Natural Language and Speech Models (Models, Training and Inference) </h2>
+<center>
+<h2 class="blackpar_title">Efficient Natural Language and Speech Models </h2>
+<h3 class="blackpar_title">(Models, Training and Inference)</h3>
+</center>
 <p>
 
 This workshop aims at introducing some fundamental problems in the field of natural language and speech processing which can be of interest to the general machine learning and deep learning community to improve the efficiency of the models, their training and inference. The workshop program offers an interactive platform for gathering experts and talents from academia and industry through different invited keynote talks, panel discussions, paper submissions and reviews, poster and oral presentations and a mentorship program.
