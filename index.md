@@ -34,19 +34,99 @@ Given the increasing interest in TML, the development of models that takes into 
 
 <!-- Call for Papers -->
 <h2 class="blackpar_title" id="Call for Papers">Call for Papers</h2>
+<ul>
+	<li>Submission Deadline: September 17, 2021</li>
+	<li>Acceptance Notification: October 22, 2021</li>
+	<li>Camera-Ready Submission: November 1, 2021</li>
+	<li>Workshop Date: December 13, 2021</li>
+</ul>
 
 <br><br>
 <!--Confirmed Spearkers-->
 <h2 class="blackpar_title" id="Confirmed Spearkers">Confirmed Spearkers</h2>
 <div class="row">
 	<div class="card column">
+	  <img src="/images/img_avatar.png" alt="Mirella Lapata" style="width:100%; border-radius:50%;">
+	  <div class="container">
+		<center>
+		<h4>
+			<b>Prof.<br>Mirella Lapata</b>
+			<br>
+			University of Edinburgh
+		</h4>
+		</center>
+	  </div>
+	</div>
+	<div class="card column">
+	  <img src="/images/img_avatar.png" alt="Luke Zettlemoyer" style="width:100%; border-radius:50%;">
+	  <div class="container">
+		<center>
+		<h4>
+			<b>Prof.<br>Luke Zettlemoyer</b>
+			<br>
+			University of Washington
+		</h4>
+		</center>
+	  </div>
+	</div>
+	<div class="card column">
+	  <img src="/images/kevin.jpg" alt="Kevin Duh" style="width:100%; border-radius:50%;">
+	  <div class="container">
+		<center>
+		<h4>
+			<b>Prof.<br>Kevin Duh</b>
+			<br>
+			Johns Hopkins University
+		</h4>
+		</center>
+	  </div>
+	</div>
+	<div class="card column">
 	  <img src="/images/boxing.jpg" alt="Boxing Chen" style="width:100%; border-radius:50%;">
 	  <div class="container">
 		<center>
 		<h4>
-			<b>X.<br>Boxing Chen</b>
+			<b>Dr.<br>Boxing Chen</b>
 			<br>
 			Alibaba
+		</h4>
+		</center>
+	  </div>
+	</div>
+</div>
+<div class="row">
+	<div class="card column">
+	  <img src="/images/sameer_singh.jpg" alt="Saneer Singh" style="width:100%; border-radius:50%;">
+	  <div class="container">
+		<center>
+		<h4>
+			<b>Prof.<br>Sameer Singh</b>
+			<br>
+			University of California
+		</h4>
+		</center>
+	  </div>
+	</div>
+	<div class="card column">
+	  <img src="/images/danqi_2019.jpg" alt="Danqi Chen" style="width:100%; border-radius:50%;">
+	  <div class="container">
+		<center>
+		<h4>
+			<b>Prof.<br>Danqi Chen</b>
+			<br>
+			Assistant professor, Princeton University
+		</h4>
+		</center>
+	  </div>
+	</div>	
+	<div class="card column">
+	  <img src="/images/norouzi.jpg" alt="Mohammad Norouzi" style="width:100%; border-radius:50%;">
+	  <div class="container">
+		<center>
+		<h4>
+			<b>Dr.<br>Mohammad Norouzi</b>
+			<br>
+			Google Brain
 		</h4>
 		</center>
 	  </div>
@@ -63,45 +143,9 @@ Given the increasing interest in TML, the development of models that takes into 
 		</center>
 	  </div>
 	</div>
-	<div class="card column">
-	  <img src="/images/norouzi.jpg" alt="Mohammad Norouzi" style="width:100%; border-radius:50%;">
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Dr.<br>Mohammad Norouzi</b>
-			<br>
-			Google Brain
-		</h4>
-		</center>
-	  </div>
-	</div>
-	<div class="card column">
-	  <img src="/images/zettlemoyer.jpg" alt="Luke Zettlemoyer" style="width:100%; border-radius:50%;">
-	  <div class="container">
-		<center>
-		<h4>
-			<b>X.<br>Luke Zettlemoyer</b>
-			<br>
-			University of Washington and Facebook
-		</h4>
-		</center>
-	  </div>
-	</div>
 </div>
 <div class="row">
-	<div class="card column">
-	  <img src="/images/sameer_singh.jpg" alt="Saneer Singh" style="width:100%; border-radius:50%;">
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Prof.<br>Saneer Singh</b>
-			<br>
-			University of California
-		</h4>
-		</center>
-	  </div>
-	</div>
-	<div class="card column">
+	<div class="card column" style="margin-left:37%;">
 	  <img src="/images/xu_sun.jpg" alt="Xu Sun" style="width:100%; border-radius:50%;">
 	  <div class="container">
 		<center>
@@ -112,31 +156,8 @@ Given the increasing interest in TML, the development of models that takes into 
 		</h4>
 		</center>
 	  </div>
-	</div>
-	<div class="card column">
-	  <img src="/images/kevin.jpg" alt="Kevin Duh" style="width:100%; border-radius:50%;">
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Prof.<br>Kevin Duh</b>
-			<br>
-			Johns Hopkins University
-		</h4>
-		</center>
-	  </div>
 	</div>	
-	<div class="card column">
-	  <img src="/images/danqi_2019.jpg" alt="Danqi Chen" style="width:100%; border-radius:50%;">
-	  <div class="container">
-		<center>
-		<h4>
-			<b>X.<br>Danqi Chen</b>
-			<br>
-			Assistant professor, Princeton University
-		</h4>
-		</center>
-	  </div>
-	</div>	
+	
 </div>
 
 <br> <br>
@@ -150,6 +171,7 @@ Given the increasing interest in TML, the development of models that takes into 
 		<h4>
 			<b>Mehdi Rezagholizadeh</b>
 			<br>
+			Huawei Noah's Ark Lab
 		</h4>
 		</center>
 	  </div>
@@ -205,13 +227,13 @@ Given the increasing interest in TML, the development of models that takes into 
 	  </div>
 	</div>
 	<div class="card column">
-	  <img src="/images/wei_xu.png" alt="Wei Xu" style="width:100%; border-radius:50%;">
+	  <img src="/images/Yue_Dong.jpg" alt="Yue Dong" style="width:100%; border-radius:50%;">
 	  <div class="container">
 		<center>
 		<h4>
-			<b>Prof.<br>Wei Xu</b>
+			<b>Prof.<br>Yue Dong</b>
 			<br>
-			Georgia Tech
+			McGill University & MILA
 		</h4>
 		</center>
 	  </div>
@@ -223,25 +245,25 @@ Given the increasing interest in TML, the development of models that takes into 
 <h2 class="blackpar_title" id="Technical Committee">Technical Committee</h2>
 
 <ul>
-	<li>Prof. Bang Liu (UDM)</li>
-	<li>Ivan Kobyzev (Huawei)</li>
-	<li>Shailza Jolly (TU Kaiserslautern)</li>
-	<li>Jingjing Xu (ByteDance)</li>
-	<li>Ali Vahdat (Thomson Reuters)</li>
-	<li>Kevin Duh</li>
-	<li>Shohreh Shaghaghian (Thomson Reuters)</li>
-	<li>Borna Jafarpour (Thomson Reuters)</li>
-	<li>Dr. Wulong Liu (Huawei)</li>
-	<li>Ahmad Rashid (Huawei)</li>
+	<li>Kevin Duh (Johns Hopkins University)</li>
+	<li>Bang Liu (University of Montreal (UDM))</li>
+	<li>Wulong Liu (Huawei Noah's Ark Lab)</li>
 	<li>Peyman Passban (Amazon)</li>
-	<li>Jad Kabbara (MILA)</li>
-	<li>Aref Jafari (U Waterloo)</li>
-	<li>Md. Akmal Haidar (Huawei)</li>
-	<li>Vasileios Lioutas (UBC)</li>
-	<li>Malik H. Altakrori (McGill)</li>
-	<li>Anderson R. Avila (Huawei)</li>
-	<li>Makesh (MILA)</li>
-	<li>Fattane Zarrinkalam (Thomson Reuters)</li>
-	<li>Nasrin Taghizadeh (Univ. of Tehran)</li>
-	<li>Prasanna Parthasarathi (MILA)</li>
+	<li>Ivan Kobyzev (Huawei Noah's Ark Lab)</li>
+	<li>Jad Kabbara (McGill University & MILA)</li> 
+	<li>Aref Jafari (University of Waterloo)</li> 
+	<li>Ahmad Rashid (Huawei Noah's Ark Lab)</li> 
+	<li>Shailza Jolly (TU Kaiserslautern)</li> 
+	<li>Md. Akmal Haidar (Huawei Noah's Ark Lab)</li> 
+	<li>Jingjing Xu (ByteDance)</li> 
+	<li>Vasileios Lioutas (University of British Colombia (UBC))</li> 
+	<li>Anderson R. Avila (Huawei Noah's Ark Lab)</li> 
+	<li>Malik H. Altakrori (McGill University & MILA)</li> 
+	<li>Ali Vahdat (Thomson Reuters)</li> 
+	<li>Prasanna Parthasarathi (McGill University & MILA)</li> 
+	<li>Fattane Zarrinkalam (Thomson Reuters)</li> 
+	<li>Makesh S Narsimhan (McGill University & MILA)</li> 
+	<li>Nasrin Taghizadeh (University of Tehran)</li> 
+	<li>Borna Jafarpour (Thomson Reuters)</li> 
+	<li>Shohreh Shaghaghian (Thomson Reuters)</li> 
 </ul>
