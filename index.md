@@ -9,13 +9,11 @@ layout: home
 ---
 
 <!-- <img src="/images/deep.jpg"> -->
-<h2 class="blackpar_title">Efficient NLP and Speech Models - Training and Inference</h2>
+<h2 class="blackpar_title">Efficient Natural Language and Speech Models (Models, Training and Inference) </h2>
 <p>
 
-Despite the great success of deep neural networks in Natural Language Processing (NLP), including speech-related tasks, over-parameterization can make it very difficult to deploy such models on edge devices due to their limited computational power, memory, and storage available. To overcome that, a new research field, namely Tiny Machine Learning (TML), arises intending to enable the design and development of Machine Learning (ML) models meant to be deployed on Embedded Systems and Intent-of-Things. For instance, model compression techniques such as quantization, pruning, layer decomposition, and knowledge distillation (KD) aim at reducing the number of parameters of these models, thus optimizing memory requirements and efficiency.
-<br><br>
-Often, these models require pre-training on a huge amount of labeled and unlabeled data, which can be an expensive process. Even a small modification to the model requires the user to redo the expensive pre-training process. Furthermore, usually, the final hardware host is not taken into account in the design and training of the models. Another aspect is multimodal systems which can learn language and speech modalities at the same time. Since the emergence of pre-trained language models which led to a great breakthrough in the NLP domain, increasing the size of these models has become a mainstream approach for improving the performance of these models.
-
+This workshop aims at introducing some fundamental problems in the field of natural language and speech processing which can be of interest to the general machine learning and deep learning community to improve the efficiency of the models, their training and inference. The workshop program offers an interactive platform for gathering experts and talents from academia and industry through different invited keynote talks, panel discussions, paper submissions and reviews, poster and oral presentations and a mentorship program.
+This will provide an opportunity to discuss and learn from each other, exchange ideas, build connections, and brainstorm on potential solutions and future collaborations.
 
 <!--	
 The workshop will take place on <span class="blackhighlighted">DATE, 2021</span>. 
@@ -46,7 +44,7 @@ Given the increasing interest in TML, the development of models that takes into 
 <h2 class="blackpar_title" id="Confirmed Spearkers">Confirmed Spearkers</h2>
 <div class="row">
 	<div class="card column">
-	  <img src="/images/img_avatar.png" alt="Mirella Lapata" style="width:100%; border-radius:50%;">
+	  <img src="/images/mirella-lapata.jpeg" alt="Mirella Lapata" style="width:100%; border-radius:50%;">
 	  <div class="container">
 		<center>
 		<h4>
