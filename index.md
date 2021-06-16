@@ -56,7 +56,7 @@ Given the increasing interest in TML, the development of models that takes into 
 	  </div>
 	</div>
 	<div class="card column">
-	  <img src="/images/img_avatar.png" alt="Luke Zettlemoyer" style="width:100%; border-radius:50%;">
+	  <img src="/images/zettlemoyer.jpg" alt="Luke Zettlemoyer" style="width:100%; border-radius:50%;">
 	  <div class="container">
 		<center>
 		<h4>
