@@ -10,7 +10,7 @@ layout: home
 
 <!-- <img src="/images/deep.jpg"> -->
 <center>
-<h2 class="blackpar_title">Efficient Natural Language and Speech Models </h2>
+<h2 class="blackpar_title">Efficient Natural Language and Speech Processing </h2>
 <h3 class="blackpar_title">(Models, Training and Inference)</h3>
 </center>
 <p>
