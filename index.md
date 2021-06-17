@@ -16,7 +16,7 @@ layout: home
 <p>
 
 This workshop aims at introducing some fundamental problems in the field of natural language and speech processing which can be of interest to the general machine learning and deep learning community to improve the efficiency of the models, their training and inference. The workshop program offers an interactive platform for gathering experts and talents from academia and industry through different invited keynote talks, panel discussions, paper submissions and reviews, poster and oral presentations and a mentorship program.
-This will provide an opportunity to discuss and learn from each other, exchange ideas, build connections, and brainstorm on potential solutions and future collaborations.
+This will provide an opportunity to discuss and learn from each other, exchange ideas, build connections, and brainstorm on potential solutions and future collaborations. The topics of this workshop can be of interest for people working on general machine learning, deep learning, optimization, theory and NLP \& Speech applications.
 
 <!--	
 The workshop will take place on <span class="blackhighlighted">DATE, 2021</span>. 
