@@ -146,7 +146,7 @@ Given the increasing interest in TML, the development of models that takes into 
 	</div>
 </div>
 <div class="row">
-	<div class="card column" style="margin-left:37%;">
+	<div class="card column" style="margin-left:25%;">
 	  <img src="/images/xu_sun.jpg" alt="Xu Sun" style="width:100%; border-radius:50%;">
 	  <div class="container">
 		<center>
@@ -159,6 +159,18 @@ Given the increasing interest in TML, the development of models that takes into 
 	  </div>
 	</div>	
 	
+	<div class="card column">
+	  <img src="/images/Yejin.jpg" alt="Yejin Choi" style="width:100%; border-radius:50%;">
+	  <div class="container">
+		<center>
+		<h4>
+			<b>Prof.<br>Yejin Choi</b>
+			<br>
+			University of Washington
+		</h4>
+		</center>
+	  </div>
+	</div>
 </div>
 
 <br> <br>
