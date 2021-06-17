@@ -29,7 +29,7 @@ Note that to attend the event, a registration on the ICLR website is required. A
 <br><br>
 <h2 class="blackpar_title" id="Overview">Overview</h2>
 <p>
-Given the increasing interest in TML, the development of models that takes into consideration hardware and computation constraints allowing the reduction of computational load and memory demand are mandatory. This workshop focuses particularly on the efficiency of NLP and Speech models.
+Despite the great success of deep neural networks due to huge over-parameterization and using very large amount of data in different tasks of natural language processing (NLP) and speech processing, training or deploying these networks on devices or even cloud services with limited memory and computational power can be very expensive and challenging. For instance, pre-trained language models (PLMs) such as GPT-3 have led to a great breakthrough in NLP; but running GPT-3 with more than 170 billion parameters trained with more than 500 GB of data requires more than 10 Tesla V-100 GPUs. That being said, still improving the NLP and Speech models by increasing their number of parameters and incorporating more data is deemed a very common practice in the NLP and Speech domains. Therefore, it is of vital importance to invest on enhancing the efficiency of these models in terms of model architectures, training and inference from different perspectives highlighted in this workshop. In this regard, we would like to share some unique and fundamental challenges with the NeurIPS community to be considered in their future investigations.
 </p>
 <br><br>
 
