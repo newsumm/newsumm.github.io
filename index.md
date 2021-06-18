@@ -16,7 +16,7 @@ layout: home
 <p>
 
 This workshop aims at introducing some fundamental problems in the field of natural language and speech processing which can be of interest to the general machine learning and deep learning community to improve the efficiency of the models, their training and inference. The workshop program offers an interactive platform for gathering experts and talents from academia and industry through different invited keynote talks, panel discussions, paper submissions and reviews, poster and oral presentations and a mentorship program.
-This will provide an opportunity to discuss and learn from each other, exchange ideas, build connections, and brainstorm on potential solutions and future collaborations. The topics of this workshop can be of interest for people working on general machine learning, deep learning, optimization, theory and NLP \& Speech applications.
+This will provide an opportunity to discuss and learn from each other, exchange ideas, build connections, and brainstorm on potential solutions and future collaborations. The topics of this workshop can be of interest for people working on general machine learning, deep learning, optimization, theory and NLP & Speech applications.
 
 <!--	
 The workshop will take place on <span class="blackhighlighted">DATE, 2021</span>. 
@@ -35,6 +35,65 @@ Despite the great success of deep neural networks due to huge over-parameterizat
 
 <!-- Call for Papers -->
 <h2 class="blackpar_title" id="Call for Papers">Call for Papers</h2>
+
+
+
+We encourage the NeurIPS community to submit their solutions, ideas, and ongoing work concerning data, model, training, and inference efficiency for NLP and speech processing. The scope of this workshop includes, but not limited to, the following topics.
+
+<br><br>
+<b>Efficient Pre-Training and Fine-Tuning.</b> Pre-training is a very expensive process. Even a small modification to the configuration of the models requires the user to redo pre-training:
+<br>
+
+<ul>
+	<li>Fast pre-training techniques, avoiding pre-training from scratch</li>
+	<li>Multi-domain pre-training/fine-tuning and fast domain adaptation for pre-trained/fine tuned models</li>
+	<li>Multimodal pre-trained (e.g., text--speech) models</li>
+	<li>Avoiding task-specific fune-tuning of pre-trained models</li>
+	<li>New efficient architectures for pre-trained models</li>
+</ul>
+
+<br>
+<b>Model Compression.</b> Neural model compression techniques such as quantization, pruning, layer decomposition and knowledge distillation (KD) aim at reducing the number of parameters of the models, improving their memory requirements or running efficiency:
+<br>
+
+<ul>
+	<li>Impact of different compression techniques on the inductive biases learned by the original models</li>
+	<li>Combined compression techniques for more efficient NLP and speech models</li>
+	<li>Efficient KD for NLP and speech, efficient intermediate layer distillation, and teacher-free distillation</li>
+	<li>Improving KD for large classification problems (e.g., text generation and machine translation with a very large number of output classes)</li>
+	<li>Solving the <i>Capacity Gap</i> problem and the <i>Search Problem</i> associated with finding the best checkpoint of the teacher</li>
+	<li>Theory of KD (e.g., how does KD work?) </li>
+</ul>
+
+<br>
+<b>Efficient Training.</b> How to improve the training speed of the NLP and speech models:
+<br>
+<ul>
+	<li>Improving the optimizer for faster training</li>
+	<li>Accelerated training of different tasks in NLP and speech</li>
+	<li>Distributed training,  federated learning and continual learning for NLP and speech tasks </li>
+</ul>
+
+<br>
+<b>Data Efficiency.</b> Pre-trained models rely on a huge amount of unlabeled data which makes the training very sample inefficient:
+<br>
+<ul>
+	<li>Sample efficient training, training with less data, few-shot and zero-shot learning</li>
+	<li>Sample efficient data-augmentation, identifying which training samples should be augmented</li>
+	<li>Low-resource NLP and speech, considering training tasks with limited available data</li>
+</ul>
+
+<br>
+<b>Edge Intelligence.</b>  Running the trained models on edge devices will require a conversion process to match the network with hardware specifications:
+<br>
+<ul>
+	<li>TinyML for NLP and speech on embedded systems</li>
+	<li>Efficient conversion versus hardware-aware training</li>
+	<li>Training on device</li>
+</ul>
+
+
+<h2 class="blackpar_title">Important Dates:</h2>
 <ul>
 	<li>Submission Deadline: September 17, 2021</li>
 	<li>Acceptance Notification: October 22, 2021</li>
@@ -47,7 +106,7 @@ Despite the great success of deep neural networks due to huge over-parameterizat
 <h2 class="blackpar_title" id="Confirmed Spearkers">Confirmed Spearkers</h2>
 <div class="row">
 	<div class="card column">
-	  <img src="/images/mirella-lapata.jpeg" alt="Mirella Lapata" style="width:100%; border-radius:50%;">
+	  <img src="/images/mirella-lapata.jpeg" alt="Mirella Lapata" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -59,7 +118,7 @@ Despite the great success of deep neural networks due to huge over-parameterizat
 	  </div>
 	</div>
 	<div class="card column">
-	  <img src="/images/zettlemoyer.jpg" alt="Luke Zettlemoyer" style="width:100%; border-radius:50%;">
+	  <img src="/images/zettlemoyer.jpg" alt="Luke Zettlemoyer" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -71,7 +130,7 @@ Despite the great success of deep neural networks due to huge over-parameterizat
 	  </div>
 	</div>
 	<div class="card column">
-	  <img src="/images/kevin.jpg" alt="Kevin Duh" style="width:100%; border-radius:50%;">
+	  <img src="/images/kevin.jpg" alt="Kevin Duh" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -83,7 +142,7 @@ Despite the great success of deep neural networks due to huge over-parameterizat
 	  </div>
 	</div>
 	<div class="card column">
-	  <img src="/images/boxing.jpg" alt="Boxing Chen" style="width:100%; border-radius:50%;">
+	  <img src="/images/boxing.jpg" alt="Boxing Chen" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -97,7 +156,7 @@ Despite the great success of deep neural networks due to huge over-parameterizat
 </div>
 <div class="row">
 	<div class="card column">
-	  <img src="/images/sameer_singh.jpg" alt="Saneer Singh" style="width:100%; border-radius:50%;">
+	  <img src="/images/sameer_singh.jpg" alt="Saneer Singh" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -109,7 +168,7 @@ Despite the great success of deep neural networks due to huge over-parameterizat
 	  </div>
 	</div>
 	<div class="card column">
-	  <img src="/images/danqi_2019.jpg" alt="Danqi Chen" style="width:100%; border-radius:50%;">
+	  <img src="/images/danqi_2019.jpg" alt="Danqi Chen" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -121,7 +180,7 @@ Despite the great success of deep neural networks due to huge over-parameterizat
 	  </div>
 	</div>	
 	<div class="card column">
-	  <img src="/images/norouzi.jpg" alt="Mohammad Norouzi" style="width:100%; border-radius:50%;">
+	  <img src="/images/norouzi.jpg" alt="Mohammad Norouzi" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -133,34 +192,7 @@ Despite the great success of deep neural networks due to huge over-parameterizat
 	  </div>
 	</div>
 	<div class="card column">
-	  <img src="/images/xinjiang.jpg" alt="Xin Jiang" style="width:100%; border-radius:50%;">
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Dr.<br>Xin Jiang</b>
-			<br>
-			Huawei
-		</h4>
-		</center>
-	  </div>
-	</div>
-</div>
-<div class="row">
-	<div class="card column" style="margin-left:25%;">
-	  <img src="/images/xu_sun.jpg" alt="Xu Sun" style="width:100%; border-radius:50%;">
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Dr.<br>Xu Sun</b>
-			<br>
-			Peking University
-		</h4>
-		</center>
-	  </div>
-	</div>	
-	
-	<div class="card column">
-	  <img src="/images/Yejin.jpg" alt="Yejin Choi" style="width:100%; border-radius:50%;">
+	  <img src="/images/Yejin.jpg" alt="Yejin Choi" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -172,13 +204,53 @@ Despite the great success of deep neural networks due to huge over-parameterizat
 	  </div>
 	</div>
 </div>
+<div class="row">
+	<div class="card column" id="to_right">
+	  <img src="/images/xinjiang.jpg" alt="Xin Jiang" class="img_card">
+	  <div class="container">
+		<center>
+		<h4>
+			<b>Dr.<br>Xin Jiang</b>
+			<br>
+			Huawei
+		</h4>
+		</center>
+	  </div>
+	</div>
 
+	<div class="card column">
+	  <img src="/images/xu_sun.jpg" alt="Xu Sun" class="img_card">
+	  <div class="container">
+		<center>
+		<h4>
+			<b>Prof.<br>Xu Sun</b>
+			<br>
+			Peking University
+		</h4>
+		</center>
+	  </div>
+	</div>	
+	
+
+	<div class="card column">
+	  <img src="/images/barbara.png" alt="Barbara Plank" class="img_card">
+	  <div class="container">
+		<center>
+		<h4>
+			<b>Prof.<br>Barbara Plank</b>
+			<br>
+			IT University of Copenhagen
+		</h4>
+		</center>
+	  </div>
+	</div>
+</div>
 <br> <br>
 <!-- Organizers -->
 <h2 class="blackpar_title" id="Organizers">Organizers</h2>
 <div class="row">
 	<div class="card column" style="margin-left:13%;">
-	  <img src="/images/Mehdi_Rezagholizadeh.jpg" alt="Mehdi Rezagholizadeh" style="width:100%; border-radius:50%;">
+	  <img src="/images/Mehdi_Rezagholizadeh.jpg" alt="Mehdi Rezagholizadeh" class="img_card">
 	  <div class="container" >
 		<center>
 		<h4>
@@ -190,63 +262,65 @@ Despite the great success of deep neural networks due to huge over-parameterizat
 	  </div>
 	</div>
 	<div class="card column">
-	  <img src="/images/lili_mou.jpg" alt="Lili Mou" style="width:100%; border-radius:50%;">
+	  <img src="/images/lili_mou.jpg" alt="Lili Mou" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
-			<b>Prof.<br>Lili Mou</b>
+			<b>Lili Mou</b>
 			<br>
-			U Alberta
+			University of Alberta
 		</h4>
 		</center>
 	  </div>
 	</div>
 	<div class="card column" >
-	  <img src="/images/pascal_poupart.jpg" alt="Pascal Poupart" style="width:100%; border-radius:50%;">
+	  <img src="/images/Yue_Dong.jpg" alt="Yue Dong" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
-			<b>Prof.<br>Pascal Poupart</b>
+			<b>Yue Dong</b>
 			<br>
-			U Waterloo
+			McGill University & MILA
 		</h4>
 		</center>
 	  </div>
 	</div>
+
 </div>
 <div class="row">
 	<div class="card column" style="margin-left:13%;">
-	  <img src="/images/ali_ghodsi.jpg" alt="Ali Ghodsi" style="width:100%; border-radius:50%;">
+	  <img src="/images/pascal_poupart.jpg" alt="Pascal Poupart" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
-			<b>Prof.<br>Ali Ghodsi</b>
+			<b>Pascal Poupart</b>
 			<br>
-			U Waterloo
+			University of Waterloo
+		</h4>
+		</center>
+	  </div>
+	</div>
+
+	<div class="card column" >
+	  <img src="/images/ali_ghodsi.jpg" alt="Ali Ghodsi" class="img_card">
+	  <div class="container">
+		<center>
+		<h4>
+			<b>Ali Ghodsi</b>
+			<br>
+			University of Waterloo
 		</h4>
 		</center>
 	  </div>
 	</div>
 	<div class="card column">
-	  <img src="/images/qun_liu.png" alt="Qun Liu" style="width:100%; border-radius:50%;">
+	  <img src="/images/qun_liu.png" alt="Qun Liu" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
-			<b>Prof.<br>Qun Liu</b>
+			<b>Qun Liu</b>
 			<br>
-			Dublin University, Huawei
-		</h4>
-		</center>
-	  </div>
-	</div>
-	<div class="card column">
-	  <img src="/images/Yue_Dong.jpg" alt="Yue Dong" style="width:100%; border-radius:50%;">
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Prof.<br>Yue Dong</b>
-			<br>
-			McGill University & MILA
+			Huawei Noah's Ark Lab
 		</h4>
 		</center>
 	  </div>
@@ -279,4 +353,9 @@ Despite the great success of deep neural networks due to huge over-parameterizat
 	<li>Nasrin Taghizadeh (University of Tehran)</li> 
 	<li>Borna Jafarpour (Thomson Reuters)</li> 
 	<li>Shohreh Shaghaghian (Thomson Reuters)</li> 
+	<li>Ehsan Kamalloo (University of Alberta)</li>
+	<li>Ali Saheb Pasand (University of Waterloo)</li>
+	<li>Abbas Ghaddar (Huawei Noah's Ark Lab)</li>
+	<li>Mehrdad Ganjeh (Ernst & Young (EY))</li>
+	<li>Mingxuan Wang (ByteDance)</li>
 </ul>

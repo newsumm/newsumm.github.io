@@ -5,12 +5,15 @@
   left: 0;
   top: 0;
   width: 100%;
-  background-image: url("https://cdn1.matadornetwork.com/blogs/1/2011/05/Sydney-Australia-cityscape-destination-940x627.jpg");
+  margin-top:2px;
+  //margin-top: -15%;
+  //margin-bottom: -15%;
+  background-image: url("/images/background_widescreen.jpg");
   background-position: center;
-  background-size: cover;
+  background-size: auto;
   background-repeat: no-repeat;
 }
-.sample-header::before {
+/*.sample-header::before {
   position: absolute;
   top: 0;
   right: 0;
@@ -18,10 +21,11 @@
   left: 0;
   //background-color: MidnightBlue;
   opacity: 0.3;
-}
+}*/
 .sample-header-section {
   position: relative;
-  padding: 15% 0 10%;
+  //padding: 15% 0 10%;
+  padding-top:10px;
   max-width: 640px;
   margin-left: auto;
   margin-right: auto;
@@ -34,9 +38,19 @@
 }
 #small_name {
   font-weight: 400;
-  padding-bottom:10%;
+  //padding-bottom:10%;
 }
-
+.header {
+  padding: 60px;
+  text-align: center;
+  background-image: url("/images/background_widescreen.jpg");
+  background-position: center;
+  background-size: auto;
+  background-repeat: no-repeat;
+  color: white;
+  font-size: 30px;
+  margin-top:2%;
+}
 </style>
 
 <header class="site-header">
@@ -45,6 +59,14 @@
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
     <!--<a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>-->
+	
+	
+	<!--
+	<div class="header">
+		<h2 id="big_name">ENLSP NeurIPS Workshop 2021</h2>
+		<h1 id="small_name">Efficient Natural Language <br> and Speech Processing</h1>
+	</div>
+	-->
 	
 	
 	<div class="sample-header">

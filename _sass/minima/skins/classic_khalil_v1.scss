@@ -124,7 +124,7 @@ p{
   float: left;
   width: 25%;
   padding: 10px;
-  height: auto; /* Should be removed. Only for demonstration */
+  //height: auto; /* Should be removed. Only for demonstration */
 }
 
 /* Clear floats after the columns */
@@ -134,19 +134,36 @@ p{
   clear: both;
 }
 
+.img_card{
+	width:100%; 
+	border-radius:50%;
+}
+
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
   .column {
-    width: 70%;
-  margin-left:15%;
-  display:block;
+    width: 75%;
+    display: block;
+    margin-bottom: 20px;
+	margin-left: 12%;
   }
+  
+  .img_card{
+	width: 75%;
+	border-radius:50%;
+		margin-left: 12%;
+
+	}
+}
+
+@media screen and (min-width: 600px) {
+	#to_right{margin-left:13%;}
 }
 
 .card {
   box-shadow: 0 0px 0px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
-  width: 25%;
+  //width: 25%;
 }
 
 .card:hover {
