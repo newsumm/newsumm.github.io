@@ -124,7 +124,7 @@ We encourage the NeurIPS community to submit their solutions, ideas, and ongoing
 		<h4>
 			<b>Prof.<br>Luke Zettlemoyer</b>
 			<br>
-			University of Washington
+			University of Washington (Facebook)
 		</h4>
 		</center>
 	  </div>
@@ -174,7 +174,7 @@ We encourage the NeurIPS community to submit their solutions, ideas, and ongoing
 		<h4>
 			<b>Prof.<br>Danqi Chen</b>
 			<br>
-			Assistant professor, Princeton University
+			Princeton University
 		</h4>
 		</center>
 	  </div>
@@ -198,7 +198,7 @@ We encourage the NeurIPS community to submit their solutions, ideas, and ongoing
 		<h4>
 			<b>Prof.<br>Yejin Choi</b>
 			<br>
-			University of Washington
+			University of Washington (Allen Institute for AI)
 		</h4>
 		</center>
 	  </div>
@@ -212,7 +212,7 @@ We encourage the NeurIPS community to submit their solutions, ideas, and ongoing
 		<h4>
 			<b>Dr.<br>Xin Jiang</b>
 			<br>
-			Huawei
+			Huawei Noah's Ark Lab
 		</h4>
 		</center>
 	  </div>
@@ -244,6 +244,20 @@ We encourage the NeurIPS community to submit their solutions, ideas, and ongoing
 		</center>
 	  </div>
 	</div>
+        <!--
+	<div class="card column">
+	  <img src="/images/samira_ebrahimi_kahou.jpg" alt="Samira Ebrahimi Kahou" class="img_card">
+	  <div class="container">
+		<center>
+		<h4>
+			<b>Prof.<br>Samira Ebrahimi Kahou</b>
+			<br>
+			ETS & MILA
+		</h4>
+		</center>
+	  </div>
+	</div>
+	-->
 </div>
 <br> <br>
 <!-- Organizers -->
