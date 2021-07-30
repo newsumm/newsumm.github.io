@@ -93,6 +93,15 @@ We encourage the NeurIPS community to submit their solutions, ideas, and ongoing
 </ul>
 
 
+<h2 class="blackpar_title">Submission Instructions</h2>
+
+<p>
+You are invited to submit your papers in our CMT submission <a href='https://cmt3.research.microsoft.com/ENLSP2021'>portal</a>. All the submitted papers have to be anonymous for double-blind review. We expect each paper will be reviewed by at least three reviewers. The content of the paper (excluding the references and supplementary materials) should not be longer than 6 pages, strictly following the NeurIPS template style (which can be found <a href='https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles'>here</a>). 
+<br><br>
+Authors can submit up to 100 MB of supplementary materials separately. Authors are highly encouraged to submit their codes for reproducibility purposes. Although original submissions are preferred, submitted papers can be among your already published or ArXiv papers, and your under submission works. Please make sure to indicate the complete list of conflict of interests for all the authors of your paper. To encourage higher quality submissions, our sponsors are offering the Best Paper Award to qualified outstanding original oral and poster presentations (upon nomination of the reviewers). Bear in mind that our workshop is not archival, but the accepted papers will be hosted on the workshop website.
+</p>
+
+<br><br>
 <h2 class="blackpar_title">Important Dates:</h2>
 <ul>
 	<li>Submission Deadline: September 17, 2021</li>
@@ -154,6 +163,7 @@ We encourage the NeurIPS community to submit their solutions, ideas, and ongoing
 	  </div>
 	</div>
 </div>
+
 <div class="row">
 	<div class="card column">
 	  <img src="/images/sameer_singh.jpg" alt="Saneer Singh" class="img_card">
@@ -204,8 +214,10 @@ We encourage the NeurIPS community to submit their solutions, ideas, and ongoing
 	  </div>
 	</div>
 </div>
+
+
 <div class="row">
-	<div class="card column" id="to_right">
+	<div class="card column">
 	  <img src="/images/xinjiang.jpg" alt="Xin Jiang" class="img_card">
 	  <div class="container">
 		<center>
@@ -244,7 +256,7 @@ We encourage the NeurIPS community to submit their solutions, ideas, and ongoing
 		</center>
 	  </div>
 	</div>
-	<!--
+	
 	<div class="card column">
 	  <img src="/images/samira_ebrahimi_kahou.jpg" alt="Samira Ebrahimi Kahou" class="img_card">
 	  <div class="container">
@@ -257,10 +269,14 @@ We encourage the NeurIPS community to submit their solutions, ideas, and ongoing
 		</center>
 	  </div>
 	</div>
-	-->
+	
 </div>
+
 <br> <br>
-<h2 class="blackpar_title" id="Schedule">(Tentative) Schedule</h2>
+<h2 class="blackpar_title" id="Schedule">Schedule (comming soon!)</h2>
+
+
+<!--
 <div class="row">
 	<table id="customers">
 	  <tr>
@@ -367,10 +383,12 @@ We encourage the NeurIPS community to submit their solutions, ideas, and ongoing
 	  <tr>
 		<td>18:50 - 19:00</td>
 		<td>Closing Speech</td>
-		<td>Mehdi Rezagholizadeh</td>
+		<td>Pascal Poupart</td>
 	  </tr>
 	</table>
 </div>
+-->
+
 <br> <br>
 <!-- Organizers -->
 <h2 class="blackpar_title" id="Organizers">Organizers</h2>
@@ -484,4 +502,6 @@ We encourage the NeurIPS community to submit their solutions, ideas, and ongoing
 	<li>Abbas Ghaddar (Huawei Noah's Ark Lab)</li>
 	<li>Mehrdad Ganjeh (Ernst & Young (EY))</li>
 	<li>Mingxuan Wang (ByteDance)</li>
+	<li>Tanya Roosta (Amazon)</li>
+	<li>Soheila Samiee (BASF)</li>
 </ul>
