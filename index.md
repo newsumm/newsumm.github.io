@@ -101,6 +101,8 @@ You are invited to submit your papers in our CMT submission <a href='https://cmt
 Authors can submit up to 100 MB of supplementary materials separately. Authors are highly encouraged to submit their codes for reproducibility purposes. Although original submissions are preferred, submitted papers can be among your already published or ArXiv papers, and your under submission works. Please make sure to indicate the complete list of conflict of interests for all the authors of your paper. To encourage higher quality submissions, our sponsors are offering the Best Paper Award to qualified outstanding original oral and poster presentations (upon nomination of the reviewers). Bear in mind that our workshop is not archival, but the accepted papers will be hosted on the workshop website.
 </p>
 
+Note: <b>The submission portal will be opened on Sep. 18th AOE. </b>
+
 <br><br>
 <h2 class="blackpar_title">Important Dates:</h2>
 <ul>
