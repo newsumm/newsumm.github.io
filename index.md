@@ -10,7 +10,7 @@ layout: home
 
 <!-- <img src="/images/deep.jpg"> -->
 <center>
-<h2 class="blackpar_title"> New Frontiers in Summarization workshop </h2>
+<h2 class="blackpar_title"> New Frontiers in Summarization Workshop </h2>
 <h3 class="blackpar_title">The Third NewSum Workshop </h3>
 </center>
 <p>
