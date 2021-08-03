@@ -37,7 +37,7 @@ The goal for this workshop is to provide a research forum for cross-fertilizatio
 <!-- Call for Papers -->
 <h2 class="blackpar_title" id="Call for Papers">Call for Papers</h2>
 
-Both long paper (eight (8) pages with unlimited reference) and short paper (four (4) pages with unlimited reference) are welcomed for submission! The reviewing process will be double-blind, and the submissions should not include the authors’ names or affiliations. Please use the [EMNLP 2021 style templates](https://2021.emnlp.org/call-for-papers/style-and-formatting). Supplementary and appendices (either as separate files or appended after the main submission) are NOT allowed.
+Both long paper (8 pages with unlimited reference) and short paper (4 pages with unlimited reference) are welcomed for submission! 
 
 A list of topics relevant to this workshop (but not limited to):
 
@@ -57,7 +57,7 @@ A list of topics relevant to this workshop (but not limited to):
 <h2 class="blackpar_title">Submission Instructions</h2>
 
 
-You are invited to submit your papers in <a href='https://www.softconf.com/emnlp2021/Summarization/'> our START/SoftConf submission portal</a>. All the submitted papers have to be anonymous for double-blind review. The content of the paper should not be longer than 8 pages for long papers and 4 pages for short papers, strictly following the <a href='https://2021.emnlp.org/call-for-papers/style-and-formatting'>EMNLP 2021 style templates</a>.
+You are invited to submit your papers in <a href='https://www.softconf.com/emnlp2021/Summarization/'> our START/SoftConf submission portal</a>. All the submitted papers have to be anonymous for double-blind review. The content of the paper should not be longer than 8 pages for long papers and 4 pages for short papers, strictly following the <a href='https://2021.emnlp.org/call-for-papers/style-and-formatting'>EMNLP 2021 style templates</a>. Supplementary and appendices (either as separate files or appended after the main submission) are allowed. We encourage code link submissions for the camera-ready version.
 
   
 NewSum 2021 will allow double submission as long as the authors make a decision before camera-ready. We will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. Authors submitting more than one paper to NewSum 2021 must ensure that their submissions do not overlap significantly (>25%) with each other in content or results. Authors can submit up to 100 MB of supplementary materials separately. Authors are highly encouraged to submit their codes for reproducibility purposes. 
