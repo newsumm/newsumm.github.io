@@ -116,7 +116,6 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 	  </div>
 	</div>
   
-  <div class="row">
 <div class="card column" >
   <img src="/images/fei_liu.JPG" alt="Fei Liu" class="img_card">
 	  <div class="container">
@@ -188,7 +187,6 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
   <li>Ramakanth Pasunuru (UNC Chapel Hill)</li>
   <li>Ido Dagan (Bar-Ilan University)</li>
 </ul>
-</p>
 
 
 
