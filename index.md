@@ -73,14 +73,12 @@ Note: <b>The submission portal will be opened on Aug. 8th AOE. </b>
 - Workshop Date: November 10, 2021
 All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 
-
-<br><br>
 <br> <br>
 <!-- Organizers -->
 <h2 class="blackpar_title" id="Organizers">Organizers</h2>
 <div class="row">
     <div class="card column" style="margin-left:13%;">
-	  <img src="/images/lu_wang.png" alt="Lu Wang" class="img_card">
+	  <img src="/images/lu_wang.jepg" alt="Lu Wang" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -92,7 +90,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 	  </div>
 	</div>
 <div class="card column">
-	  <img src="/images/giuseppe_carenini.jpg" alt="Giuseppe Carenini" class="img_card">
+	  <img src="/images/giuseppe_carenini.jepg" alt="Giuseppe Carenini" class="img_card">
 	  <div class="container" >
 		<center>
 		<h4>
@@ -104,7 +102,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 	  </div>
 	</div>
 <div class="card column">
-	  <img src="/images/jackie_cheung.jpg" alt="Jackie Chi Kit Cheung" class="img_card">
+	  <img src="/images/jackie_cheung.jepg" alt="Jackie Chi Kit Cheung" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -116,7 +114,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 	  </div>
 	</div>
 <div class="card column" >
-  <img src="/images/lu_wang.png" alt="Lu Wang" class="img_card">
+  <img src="/images/lu_wang.jepg" alt="Lu Wang" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
