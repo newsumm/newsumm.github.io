@@ -63,7 +63,7 @@
 .header {
   padding: 60px;
   text-align: center;
-  background-image: url("/images/background_widescreen.jpg");
+  background-image: url("/images/background_widescreen.jpeg");
   background-position: center;
   background-size: auto;
   background-repeat: no-repeat;
@@ -75,20 +75,12 @@
 
 <header class="site-header">
   <div class="wrapper"><!--<a class="site-title" rel="author" href="/">ENLSP NeurIPS Workshop 2021</a>-->
-	
-	
-	<!--
-	<div class="header">
-		<h2 id="big_name">ENLSP NeurIPS Workshop 2021</h2>
-		<h1 id="small_name">Efficient Natural Language <br> and Speech Processing</h1>
-	</div>
-	-->
-	
+
 	
 	<div class="sample-header">
 	  <div class="sample-header-section">
-		<h2 id="big_name">ENLSP NeurIPS Workshop 2021</h2>
-		<h1 id="small_name">Efficient Natural Language <br> and Speech Processing</h1>
+		<h2 id="big_name">NewSum EMNLP Workshop 2021</h2>
+		<h1 id="small_name">New Frontiers in Summarization</h1>
 	  </div>
 	</div><nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
@@ -108,14 +100,12 @@
       <div class="wrapper">
         <div class="home"><!-- <img src="/images/deep.jpg"> -->
 <center>
-<h2 class="blackpar_title">Efficient Natural Language and Speech Processing </h2>
-<h3 class="blackpar_title">(Models, Training and Inference)</h3>
+<h2 class="blackpar_title">New Frontiers in Summarization workshop </h2>
+<h3 class="blackpar_title">The Third NewSum Workshop</h3>
 </center>
 <p>
 
-This workshop aims at introducing some fundamental problems in the field of natural language and speech processing which can be of interest to the general machine learning and deep learning community to improve the efficiency of the models, their training and inference. The workshop program offers an interactive platform for gathering experts and talents from academia and industry through different invited keynote talks, panel discussions, paper submissions and reviews, poster and oral presentations and a mentorship program.
-This will provide an opportunity to discuss and learn from each other, exchange ideas, build connections, and brainstorm on potential solutions and future collaborations. The topics of this workshop can be of interest for people working on general machine learning, deep learning, optimization, theory and NLP &amp; Speech applications.
-
+The Third Workshop on “New Frontiers in Summarization workshop” aims to provide a research forum for cross-fertilization of ideas in automatic summarization and related areas. This includes discussion on novel paradigms/frameworks, shared tasks of interest, information integration and presentation, applied research and applications, and possible future research foci. The workshop will pave the way towards building a cohesive research community, accelerating knowledge diffusion, developing new tools, datasets and resources that are in line with the needs of academia, industry, and government.
 <!--	
 The workshop will take place on <span class="blackhighlighted">DATE, 2021</span>. 
 Due to the pandemic, the workshop will be <span class="blackhighlighted">VIRTUAL</span>. More details will be provided soon. 
@@ -127,7 +117,7 @@ Note that to attend the event, a registration on the ICLR website is required. A
 <br /><br />
 <h2 class="blackpar_title" id="Overview">Overview</h2>
 <p>
-Despite the great success of deep neural networks due to huge over-parameterization and using very large amount of data in different tasks of natural language processing (NLP) and speech processing, training or deploying these networks on devices or even cloud services with limited memory and computational power can be very expensive and challenging. For instance, pre-trained language models (PLMs) such as GPT-3 have led to a great breakthrough in NLP; but running GPT-3 with more than 170 billion parameters trained with more than 500 GB of data requires more than 10 Tesla V-100 GPUs. That being said, still improving the NLP and Speech models by increasing their number of parameters and incorporating more data is deemed a very common practice in the NLP and Speech domains. Therefore, it is of vital importance to invest on enhancing the efficiency of these models in terms of model architectures, training and inference from different perspectives highlighted in this workshop. In this regard, we would like to share some unique and fundamental challenges with the NeurIPS community to be considered in their future investigations.
+New advances in natural language processing (e.g., pre-trained models with self-supervised objectives) have resulted in state-of-the-art performance according to existing standards of summarization evaluation, by effectively exploiting large-scale datasets and superior computing power. This progress now needs to be complemented in at least two ways. On the one hand, the summarization of large amounts of multimodal data (text + others) needs more sophisticated abstraction capabilities, better integration of abstraction and extraction, more flexible language generation, as well as the ability to combine language with information visualization. On the other hand, to assess the quality of such system summaries, more comprehensive evaluation metrics are needed which correlate more tightly with human judges or extrinsic task-based performance. For example, an important research topic which has emerged in the past two years is to ensure that the output summarization is factually consistent with the source text (Kryscinski et al., 2019), which has resulted in new summarization evaluation techniques focused on correctness. Both of these pillars will be crucial for realistic, ecologically valid deployment of summarization research. The goal for this workshop is to provide a research forum for cross-fertilization of ideas. We seek to bring together researchers from a diverse range of fields (e.g., summarization, visualization, language generation, cognitive and psycholinguistics) for discussion on key issues related to automatic summarization. This includes discussion on novel paradigms/frameworks, shared tasks of interest, information integration and presentation, applied research and applications, and possible future research foci. The workshop will pave the way towards building a cohesive research community, accelerating knowledge diffusion, developing new tools, datasets and resources that are in line with the needs of academia, industry, and government.
 </p>
 <br /><br />
 
@@ -135,226 +125,46 @@ Despite the great success of deep neural networks due to huge over-parameterizat
 <h2 class="blackpar_title" id="Call for Papers">Call for Papers</h2>
 
 
-
-We encourage the NeurIPS community to submit their solutions, ideas, and ongoing work concerning data, model, training, and inference efficiency for NLP and speech processing. The scope of this workshop includes, but not limited to, the following topics.
-
+Both long paper (8 pages with unlimited reference) and short paper (4 pages with unlimited reference) are welcomed for submission! The reviewing process will be double-blind, and the submissions should not include the authors’ names or affiliations. Please use the <a href='https://2021.emnlp.org/call-for-papers/style-and-formatting'>EMNLP 2021 style templates</a>. Supplementary and appendices (either as separate files or appended after the main submission) are NOT allowed.
 <br /><br />
-<b>Efficient Pre-Training and Fine-Tuning.</b> Pre-training is a very expensive process. Even a small modification to the configuration of the models requires the user to redo pre-training:
-<br />
-
+A list of topics relevant to this workshop (but not limited to):
 <ul>
-	<li>Fast pre-training techniques, avoiding pre-training from scratch</li>
-	<li>Multi-domain pre-training/fine-tuning and fast domain adaptation for pre-trained/fine tuned models</li>
-	<li>Multimodal pre-trained (e.g., text--speech) models</li>
-	<li>Avoiding task-specific fune-tuning of pre-trained models</li>
-	<li>New efficient architectures for pre-trained models</li>
+<li>Abstractive and extractive summarization</li>
+<li>Language generation</li>
+<li>Multiple text genres (News, tweets, product reviews, meeting conversations, forums, lectures, student feedback, emails, medical records, books, research articles, etc)</li>
+<li>Multimodal Input: Information integration and aggregation across multiple modalities (text, speech, image, video)</li>
+<li>Multimodal Output: Summarization and visualization + interactive exploration</li>
+<li>Tailoring summaries to user queries or interests</li>
+<li>Semantic aspects of summarization (e.g. semantic representation, inference, validity)</li>
+<li>Development of new algorithms</li>
+<li>Development of new datasets and annotations</li>
+<li>Development of new evaluation metrics</li>
+<li>Cognitive or psycholinguistic aspects of summarization and visualization (e.g. perceived readability, usability, etc)</li>
 </ul>
 
-<br />
-<b>Model Compression.</b> Neural model compression techniques such as quantization, pruning, layer decomposition and knowledge distillation (KD) aim at reducing the number of parameters of the models, improving their memory requirements or running efficiency:
-<br />
+          
+<br /><br />
+<h2 class="blackpar_title" id="Submission Instructions">Submission Instructions</h2>
 
-<ul>
-	<li>Impact of different compression techniques on the inductive biases learned by the original models</li>
-	<li>Combined compression techniques for more efficient NLP and speech models</li>
-	<li>Efficient KD for NLP and speech, efficient intermediate layer distillation, and teacher-free distillation</li>
-	<li>Improving KD for large classification problems (e.g., text generation and machine translation with a very large number of output classes)</li>
-	<li>Solving the <i>Capacity Gap</i> problem and the <i>Search Problem</i> associated with finding the best checkpoint of the teacher</li>
-	<li>Theory of KD (e.g., how does KD work?) </li>
-</ul>
-
-<br />
-<b>Efficient Training.</b> How to improve the training speed of the NLP and speech models:
-<br />
-<ul>
-	<li>Improving the optimizer for faster training</li>
-	<li>Accelerated training of different tasks in NLP and speech</li>
-	<li>Distributed training,  federated learning and continual learning for NLP and speech tasks </li>
-</ul>
-
-<br />
-<b>Data Efficiency.</b> Pre-trained models rely on a huge amount of unlabeled data which makes the training very sample inefficient:
-<br />
-<ul>
-	<li>Sample efficient training, training with less data, few-shot and zero-shot learning</li>
-	<li>Sample efficient data-augmentation, identifying which training samples should be augmented</li>
-	<li>Low-resource NLP and speech, considering training tasks with limited available data</li>
-</ul>
-
-<br />
-<b>Edge Intelligence.</b>  Running the trained models on edge devices will require a conversion process to match the network with hardware specifications:
-<br />
-<ul>
-	<li>TinyML for NLP and speech on embedded systems</li>
-	<li>Efficient conversion versus hardware-aware training</li>
-	<li>Training on device</li>
-</ul>
-
-
+<p>
+You are invited to submit your papers in our CMT submission <a href='https://cmt3.research.microsoft.com/Newsum2021'>portal</a>. All the submitted papers have to be anonymous for double-blind review. The content of the paper should not be longer than 8 pages for long papers and 4 pages for short papers, strictly following the <a href='https://2021.emnlp.org/call-for-papers/style-and-formatting'>EMNLP 2021 style templates</a>.
+<br>
+  
+NewSum 2021 will allow double submission as long as the authors make a decision before camera-ready. We will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. Authors submitting more than one paper to NewSum 2021 must ensure that their submissions do not overlap significantly (>25%) with each other in content or results. Authors can submit up to 100 MB of supplementary materials separately. Authors are highly encouraged to submit their codes for reproducibility purposes. 
+</p>
+          
 <h2 class="blackpar_title">Important Dates:</h2>
 <ul>
-	<li>Submission Deadline: September 17, 2021</li>
-	<li>Acceptance Notification: October 22, 2021</li>
-	<li>Camera-Ready Submission: November 1, 2021</li>
-	<li>Workshop Date: December 13, 2021</li>
+  <li>Anonymity period begins: July 28, 2021</li>
+	<li>Submission Deadline: August 28, 2021</li>
+	<li>Acceptance Notification: September 24, 2021</li>
+	<li>Camera-Ready Submission: October 1, 2021</li>
+	<li>Workshop Date: November 10, 2021</li>
+All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 </ul>
 
 <br /><br />
-<!--Confirmed Spearkers-->
-<h2 class="blackpar_title" id="Confirmed Spearkers">Confirmed Spearkers</h2>
-<div class="row">
-	<div class="card column">
-	  <img src="/images/mirella-lapata.jpeg" alt="Mirella Lapata" class="img_card" />
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Prof.<br />Mirella Lapata</b>
-			<br />
-			University of Edinburgh
-		</h4>
-		</center>
-	  </div>
-	</div>
-	<div class="card column">
-	  <img src="/images/zettlemoyer.jpg" alt="Luke Zettlemoyer" class="img_card" />
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Prof.<br />Luke Zettlemoyer</b>
-			<br />
-			University of Washington (Facebook)
-		</h4>
-		</center>
-	  </div>
-	</div>
-	<div class="card column">
-	  <img src="/images/kevin.jpg" alt="Kevin Duh" class="img_card" />
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Prof.<br />Kevin Duh</b>
-			<br />
-			Johns Hopkins University
-		</h4>
-		</center>
-	  </div>
-	</div>
-	<div class="card column">
-	  <img src="/images/boxing.jpg" alt="Boxing Chen" class="img_card" />
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Dr.<br />Boxing Chen</b>
-			<br />
-			Alibaba
-		</h4>
-		</center>
-	  </div>
-	</div>
-</div>
-<div class="row">
-	<div class="card column">
-	  <img src="/images/sameer_singh.jpg" alt="Saneer Singh" class="img_card" />
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Prof.<br />Sameer Singh</b>
-			<br />
-			University of California
-		</h4>
-		</center>
-	  </div>
-	</div>
-	<div class="card column">
-	  <img src="/images/danqi_2019.jpg" alt="Danqi Chen" class="img_card" />
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Prof.<br />Danqi Chen</b>
-			<br />
-			Princeton University
-		</h4>
-		</center>
-	  </div>
-	</div>	
-	<div class="card column">
-	  <img src="/images/norouzi.jpg" alt="Mohammad Norouzi" class="img_card" />
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Dr.<br />Mohammad Norouzi</b>
-			<br />
-			Google Brain
-		</h4>
-		</center>
-	  </div>
-	</div>
-	<div class="card column">
-	  <img src="/images/Yejin.jpg" alt="Yejin Choi" class="img_card" />
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Prof.<br />Yejin Choi</b>
-			<br />
-			University of Washington (Allen Institute for AI)
-		</h4>
-		</center>
-	  </div>
-	</div>
-</div>
-<div class="row">
-	<div class="card column" id="to_right">
-	  <img src="/images/xinjiang.jpg" alt="Xin Jiang" class="img_card" />
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Dr.<br />Xin Jiang</b>
-			<br />
-			Huawei Noah's Ark Lab
-		</h4>
-		</center>
-	  </div>
-	</div>
 
-	<div class="card column">
-	  <img src="/images/xu_sun.jpg" alt="Xu Sun" class="img_card" />
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Prof.<br />Xu Sun</b>
-			<br />
-			Peking University
-		</h4>
-		</center>
-	  </div>
-	</div>	
-	
-
-	<div class="card column">
-	  <img src="/images/barbara.png" alt="Barbara Plank" class="img_card" />
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Prof.<br />Barbara Plank</b>
-			<br />
-			IT University of Copenhagen
-		</h4>
-		</center>
-	  </div>
-	</div>
-	<!--
-	<div class="card column">
-	  <img src="/images/samira_ebrahimi_kahou.jpg" alt="Samira Ebrahimi Kahou" class="img_card">
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Prof.<br>Samira Ebrahimi Kahou</b>
-			<br>
-			ETS & MILA
-		</h4>
-		</center>
-	  </div>
-	</div>
 	-->
 </div>
 <br /> <br />
@@ -470,118 +280,118 @@ We encourage the NeurIPS community to submit their solutions, ideas, and ongoing
 	</table>
 </div>
 <br /> <br />
+        
+        
 <!-- Organizers -->
 <h2 class="blackpar_title" id="Organizers">Organizers</h2>
+<h2 class="blackpar_title" id="Organizers">Organizers</h2>
 <div class="row">
-	<div class="card column" style="margin-left:13%;">
-	  <img src="/images/Mehdi_Rezagholizadeh.jpg" alt="Mehdi Rezagholizadeh" class="img_card" />
+    <div class="card column" style="margin-left:13%;">
+	  <img src="/images/lu_wang.jpeg" alt="Lu Wang" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
-			<b>Mehdi Rezagholizadeh</b>
-			<br />
-			Huawei Noah's Ark Lab
+			<a href="https://web.eecs.umich.edu/~wangluxy/"><b>Wang Lu</b></a>
+			<br>
+			Northeastern University, USA
 		</h4>
 		</center>
 	  </div>
 	</div>
-	<div class="card column">
-	  <img src="/images/lili_mou.jpg" alt="Lili Mou" class="img_card" />
-	  <div class="container">
+<div class="card column">
+	  <img src="/images/giuseppe_carenini.jpeg" alt="Giuseppe Carenini" class="img_card">
+	  <div class="container" >
 		<center>
 		<h4>
-			<b>Lili Mou</b>
-			<br />
-			University of Alberta
+			<a href="https://www.cs.ubc.ca/~carenini/"><b>Giuseppe Carenini</b></a>
+			<br>
+			University of British Columbia, Canada
 		</h4>
 		</center>
 	  </div>
 	</div>
-	<div class="card column">
-	  <img src="/images/Yue_Dong.jpg" alt="Yue Dong" class="img_card" />
+<div class="card column">
+	  <img src="/images/jackie_cheung.jpeg" alt="Jackie Chi Kit Cheung" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
-			<b>Yue Dong</b>
-			<br />
-			McGill University &amp; MILA
+			<a href="https://www.cs.mcgill.ca/~jcheung/"><b>Jackie Chi Kit Cheung</b></a>
+			<br>
+			McGill University & MILA, Canada
 		</h4>
 		</center>
 	  </div>
 	</div>
-
-</div>
-<div class="row">
-	<div class="card column" style="margin-left:13%;">
-	  <img src="/images/pascal_poupart.jpg" alt="Pascal Poupart" class="img_card" />
+<div class="card column" >
+  <img src="/images/fei_liu.jpeg" alt="Fei Liu" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
-			<b>Pascal Poupart</b>
-			<br />
-			University of Waterloo
+			<a href="http://www.cs.ucf.edu/~feiliu/"><b>Fei Liu</b></a>
+			<br>
+			University of Central Florida, USA
 		</h4>
 		</center>
 	  </div>
 	</div>
-
-	<div class="card column">
-	  <img src="/images/ali_ghodsi.jpg" alt="Ali Ghodsi" class="img_card" />
+<div class="card column" >
+	  <img src="/images/Yue_Dong.jpg" alt="Yue Dong" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
-			<b>Ali Ghodsi</b>
-			<br />
-			University of Waterloo
+      <a href="https://www.cs.mcgill.ca/~ydong26/"><b>Yue Dong</b></a>
+			<br>
+			McGill University & MILA, Canada
 		</h4>
 		</center>
 	  </div>
 	</div>
-	<div class="card column">
-	  <img src="/images/qun_liu.png" alt="Qun Liu" class="img_card" />
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Qun Liu</b>
-			<br />
-			Huawei Noah's Ark Lab
-		</h4>
-		</center>
-	  </div>
-	</div>
-</div>
-
+        
 <br /><br />
 <!-- Technical Committee -->
 <h2 class="blackpar_title" id="Technical Committee">Technical Committee</h2>
 
 <ul>
-	<li>Kevin Duh (Johns Hopkins University)</li>
-	<li>Bang Liu (University of Montreal (UDM))</li>
-	<li>Wulong Liu (Huawei Noah's Ark Lab)</li>
-	<li>Peyman Passban (Amazon)</li>
-	<li>Ivan Kobyzev (Huawei Noah's Ark Lab)</li>
-	<li>Jad Kabbara (McGill University &amp; MILA)</li> 
-	<li>Aref Jafari (University of Waterloo)</li> 
-	<li>Ahmad Rashid (Huawei Noah's Ark Lab)</li> 
-	<li>Shailza Jolly (TU Kaiserslautern)</li> 
-	<li>Md. Akmal Haidar (Huawei Noah's Ark Lab)</li> 
-	<li>Jingjing Xu (ByteDance)</li> 
-	<li>Vasileios Lioutas (University of British Colombia (UBC))</li> 
-	<li>Anderson R. Avila (Huawei Noah's Ark Lab)</li> 
-	<li>Malik H. Altakrori (McGill University &amp; MILA)</li> 
-	<li>Ali Vahdat (Thomson Reuters)</li> 
-	<li>Prasanna Parthasarathi (McGill University &amp; MILA)</li> 
-	<li>Fattane Zarrinkalam (Thomson Reuters)</li> 
-	<li>Makesh S Narsimhan (McGill University &amp; MILA)</li> 
-	<li>Nasrin Taghizadeh (University of Tehran)</li> 
-	<li>Borna Jafarpour (Thomson Reuters)</li> 
-	<li>Shohreh Shaghaghian (Thomson Reuters)</li> 
-	<li>Ehsan Kamalloo (University of Alberta)</li>
-	<li>Ali Saheb Pasand (University of Waterloo)</li>
-	<li>Abbas Ghaddar (Huawei Noah's Ark Lab)</li>
-	<li>Mehrdad Ganjeh (Ernst &amp; Young (EY))</li>
-	<li>Mingxuan Wang (ByteDance)</li>
+	
+	<li>Enamul Hoque (York University)</li>
+<li>Jiacheng Xu (The University of Texas at Austin)</li>
+<li>Rui Zhang (Penn State University)</li>
+<li>Hou Pong Chan (University of Macau)</li>
+<li>Yuntian Deng (Harvard University)</li>
+<li>Kristjan Arumae (Amazon)</li>
+<li>Xiaojun Wan (Peking University)</li>
+<li>Chris Kedzie (Rasa Technologies Inc.)</li>
+<li>Naoaki Okazaki (Tokyo Institute of Technology)</li>
+<li>Manabu Okumura (Tokyo Institute of Technology)</li>
+<li>Yang Liu (Microsoft)</li>
+<li>Tadashi Nomoto (National Institute of Japanese Literature)</li>
+<li>Linzi Xing (University of British Columbia)</li>
+<li>Ari Rappoport (Hebrew University)</li>
+<li>Felice Dell'Orletta (Istituto di Linguistica Computazionale "A. Zampolli" (CNR), Pisa, Italy)</li>
+<li>Margot Mieskes (University of Applied Sciences Darmstadt, Germany)</li>
+<li>Rodrigo Souza Wilkens (University of Essex)</li>
+<li>Maxime Peyrard (EPFL)</li>
+<li>Benoit Favre (Aix-Marseille University LIS/CNRS)</li>
+<li>Tobias Falke (Amazon)</li>
+<li>Thiago Alexandre Salgueiro Pardo (University of São Paulo)</li>
+<li>Jessica Ouyang (University of Texas at Dallas)</li>
+<li>Yashar Mehdad (Facebook AI)</li>
+<li>Wencan Luo (Google)</li>
+<li>Florian Boudin (Université de Nantes - France)</li>
+<li>Juan-Manuel Torres-Moreno (LIA Avignon Université)</li>
+<li>Michael Elhadad (Ben Gurion University)</li>
+<li>Esaú Villatoro Tello (Universidad Autónoma Metropolitana Unidad Cuajimalpa, México)</li>
+<li>Yuning Mao (University of Illinois at Urbana-Champaign)</li>
+<li>Wen Xiao (University of British Columbia)</li>
+<li>Xinyu Hua (Northeastern University)</li>
+<li>Patrick Huber (University of British Columbia)</li>
+<li>Abram Handler (University of Colorado)</li>
+<li>Wojciech Kryściński (Salesforce Research)</li>
+<li>Alexander Fabbri (Yale University)</li>
+<li>Greg Durrett (UT Austin)</li>
+- Yang Gao (Royal Holloway, University of London, UK)</li>
+- Ramakanth Pasunuru (UNC Chapel Hill)</li>
+- Ido Dagan (Bar-Ilan University)</li>
 </ul>
 </p>
 
@@ -598,12 +408,12 @@ We encourage the NeurIPS community to submit their solutions, ideas, and ongoing
     <div class="footer-col-wrapper">
       <div class="footer-col">
         <ul class="contact-list">
-          <li class="p-name">ENLSP NeurIPS Workshop 2021</li>
-          <li><a class="u-email" href="mailto:neurips.ENLSP.2021@gmail.com">neurips.ENLSP.2021@gmail.com</a></li>
+          <li class="p-name">NewSum EMNLP Workshop 2021</li>
+          <li><a class="u-email" href="mailto:yue.dong2@mail.mcgill.ca">yue.dong2@mail.mcgill.ca</a></li>
         </ul>
       </div>
       <div class="footer-col">
-        <p>ENLSP highlights some fundamental problems in NLP and speech  processing related to efficiency of the models, training and  inference for the general ML and DL communities.
+        <p>NewSum provides a research platform for cross-fertilization of ideas on key issues related to automatic summarization.
 </p>
       </div>
     </div>
