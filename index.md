@@ -55,7 +55,7 @@ A list of topics relevant to this workshop (but not limited to):
 <h2 class="blackpar_title">Submission Instructions</h2>
 
 <p>
-You are invited to submit your papers in our CMT submission <a href='https://cmt3.research.microsoft.com/Newsum2021'>portal</a>. All the submitted papers have to be anonymous for double-blind review. The content of the paper (excluding the references and supplementary materials) should not be longer than 8 pages for long papers and 4 pages for short papers, strictly following the [EMNLP 2021 style templates](https://2021.emnlp.org/call-for-papers/style-and-formatting).
+You are invited to submit your papers in our CMT submission <a href='https://cmt3.research.microsoft.com/Newsum2021'>portal</a>. All the submitted papers have to be anonymous for double-blind review. The content of the paper (excluding the references and supplementary materials) should not be longer than 8 pages for long papers and 4 pages for short papers, strictly following the <a href='https://2021.emnlp.org/call-for-papers/style-and-formatting'>EMNLP 2021 style templates</a>.
 <br>
   
 NewSum 2021 will allow double submission as long as the authors make a decision before camera-ready. We will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. Authors submitting more than one paper to NewSum 2021 must ensure that their submissions do not overlap significantly (>25%) with each other in content or results. Authors can submit up to 100 MB of supplementary materials separately. Authors are highly encouraged to submit their codes for reproducibility purposes. 
@@ -82,7 +82,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 	  <div class="container">
 		<center>
 		<h4>
-			<b>Lu Wang</b>
+			<a href="https://web.eecs.umich.edu/~wangluxy/"><b>Wang Lu</b></a>
 			<br>
 			Northeastern University, USA
 		</h4>
@@ -94,7 +94,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 	  <div class="container" >
 		<center>
 		<h4>
-			<b>Giuseppe Carenini</b>
+			<a href="https://www.cs.ubc.ca/~carenini/"><b>Giuseppe Carenini</b></a>
 			<br>
 			University of British Columbia, Canada
 		</h4>
@@ -106,7 +106,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 	  <div class="container">
 		<center>
 		<h4>
-			<b>Jackie Chi Kit Cheung </b>
+			<a href="https://www.cs.mcgill.ca/~jcheung/"><b>Jackie Chi Kit Cheung</b></a>
 			<br>
 			McGill University & MILA, Canada
 		</h4>
@@ -130,7 +130,8 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 	  <div class="container">
 		<center>
 		<h4>
-			<b>Yue Dong</b>
+      <a href="https://www.cs.mcgill.ca/~ydong26/"><b>Yue Dong</b></a>
+			
 			<br>
 			McGill University & MILA, Canada
 		</h4>
