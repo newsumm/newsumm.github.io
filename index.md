@@ -79,7 +79,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 <!-- Organizers -->
 <h2 class="blackpar_title" id="Organizers">Organizers</h2>
 <div class="row">
-    <div class="card column" style="margin-left:13%;">
+    <div class="card column" style="margin-left:0;">
 	  <img src="/images/lu_wang.JPG" alt="Lu Wang" class="img_card">
 	  <div class="container">
 		<center>
@@ -115,7 +115,6 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 		</center>
 	  </div>
 	</div>
-  
 <div class="card column" >
   <img src="/images/fei_liu.JPG" alt="Fei Liu" class="img_card">
 	  <div class="container">
