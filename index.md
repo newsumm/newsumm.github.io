@@ -92,7 +92,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 	  </div>
 	</div>
   <div class="card column" >
-  <img src="/images/fei_liu.JPG" alt="Fei Liu" class="img_card">
+  <img src="/images/fei_liu.jpg" alt="Fei Liu" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
