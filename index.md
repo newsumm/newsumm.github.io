@@ -10,13 +10,14 @@ layout: home
 
 <!-- <img src="/images/deep.jpg"> -->
 <center>
-<h2 class="blackpar_title">Efficient Natural Language and Speech Processing </h2>
-<h3 class="blackpar_title">(Models, Training and Inference)</h3>
+<h2 class="blackpar_title"> New Frontiers in Summarization workshop </h2>
+<h3 class="blackpar_title">the Third NewSum Workshop </h3>
 </center>
 <p>
 
-This workshop aims at introducing some fundamental problems in the field of natural language and speech processing which can be of interest to the general machine learning and deep learning community to improve the efficiency of the models, their training and inference. The workshop program offers an interactive platform for gathering experts and talents from academia and industry through different invited keynote talks, panel discussions, paper submissions and reviews, poster and oral presentations and a mentorship program.
-This will provide an opportunity to discuss and learn from each other, exchange ideas, build connections, and brainstorm on potential solutions and future collaborations. The topics of this workshop can be of interest for people working on general machine learning, deep learning, optimization, theory and NLP & Speech applications.
+
+The Third Workshop on “New Frontiers in Summarization workshop” aims to provide a research forum for cross-fertilization of ideas in automatic summarization and related areas. This includes discussion on novel paradigms/frameworks, shared tasks of interest, information integration and presentation, applied research and applications, and possible future research foci. The workshop will pave the way towards building a cohesive research community, accelerating knowledge diffusion, developing new tools, datasets and resources that are in line with the needs of academia, industry, and government.
+
 
 <!--	
 The workshop will take place on <span class="blackhighlighted">DATE, 2021</span>. 
@@ -29,91 +30,175 @@ Note that to attend the event, a registration on the ICLR website is required. A
 <br><br>
 <h2 class="blackpar_title" id="Overview">Overview</h2>
 <p>
-Despite the great success of deep neural networks due to huge over-parameterization and using very large amount of data in different tasks of natural language processing (NLP) and speech processing, training or deploying these networks on devices or even cloud services with limited memory and computational power can be very expensive and challenging. For instance, pre-trained language models (PLMs) such as GPT-3 have led to a great breakthrough in NLP; but running GPT-3 with more than 170 billion parameters trained with more than 500 GB of data requires more than 10 Tesla V-100 GPUs. That being said, still improving the NLP and Speech models by increasing their number of parameters and incorporating more data is deemed a very common practice in the NLP and Speech domains. Therefore, it is of vital importance to invest on enhancing the efficiency of these models in terms of model architectures, training and inference from different perspectives highlighted in this workshop. In this regard, we would like to share some unique and fundamental challenges with the NeurIPS community to be considered in their future investigations.
+New advances in natural language processing (e.g., pre-trained models with self-supervised objectives) have resulted in state-of-the-art performance according to existing standards of summarization evaluation, by effectively exploiting large-scale datasets and superior computing power. This progress now needs to be complemented in at least two ways. On the one hand, the summarization of large amounts of multimodal data (text + others) needs more sophisticated abstraction capabilities, better integration of abstraction and extraction, more flexible language generation, as well as the ability to combine language with information visualization. On the other hand, to assess the quality of such system summaries, more comprehensive evaluation metrics are needed which correlate more tightly with human judges or extrinsic task-based performance. For example, an important research topic which has emerged in the past two years is to ensure that the output summarization is factually consistent with the source text (Kryscinski et al., 2019), which has resulted in new summarization evaluation techniques focused on correctness. Both of these pillars will be crucial for realistic, ecologically valid deployment of summarization research. The goal for this workshop is to provide a research forum for cross-fertilization of ideas. We seek to bring together researchers from a diverse range of fields (e.g., summarization, visualization, language generation, cognitive and psycholinguistics) for discussion on key issues related to automatic summarization. This includes discussion on novel paradigms/frameworks, shared tasks of interest, information integration and presentation, applied research and applications, and possible future research foci. The workshop will pave the way towards building a cohesive research community, accelerating knowledge diffusion, developing new tools, datasets and resources that are in line with the needs of academia, industry, and government.
+  
 </p>
 <br><br>
 
 <!-- Call for Papers -->
 <h2 class="blackpar_title" id="Call for Papers">Call for Papers</h2>
 
+Both long paper (eight (8) pages with unlimited reference) and short paper (four (4) pages with unlimited reference) are welcomed for submission! The reviewing process will be double-blind, and the submissions should not include the authors’ names or affiliations. Please use the [EMNLP 2021 style templates](https://2021.emnlp.org/call-for-papers/style-and-formatting). Supplementary and appendices (either as separate files or appended after the main submission) are NOT allowed.
 
+A list of topics relevant to this workshop (but not limited to):
 
-We encourage the NeurIPS community to submit their solutions, ideas, and ongoing work concerning data, model, training, and inference efficiency for NLP and speech processing. The scope of this workshop includes, but not limited to, the following topics.
-
-<br><br>
-<b>Efficient Pre-Training and Fine-Tuning.</b> Pre-training is a very expensive process. Even a small modification to the configuration of the models requires the user to redo pre-training:
-<br>
-
-<ul>
-	<li>Fast pre-training techniques, avoiding pre-training from scratch</li>
-	<li>Multi-domain pre-training/fine-tuning and fast domain adaptation for pre-trained/fine tuned models</li>
-	<li>Multimodal pre-trained (e.g., text--speech) models</li>
-	<li>Avoiding task-specific fune-tuning of pre-trained models</li>
-	<li>New efficient architectures for pre-trained models</li>
-</ul>
-
-<br>
-<b>Model Compression.</b> Neural model compression techniques such as quantization, pruning, layer decomposition and knowledge distillation (KD) aim at reducing the number of parameters of the models, improving their memory requirements or running efficiency:
-<br>
-
-<ul>
-	<li>Impact of different compression techniques on the inductive biases learned by the original models</li>
-	<li>Combined compression techniques for more efficient NLP and speech models</li>
-	<li>Efficient KD for NLP and speech, efficient intermediate layer distillation, and teacher-free distillation</li>
-	<li>Improving KD for large classification problems (e.g., text generation and machine translation with a very large number of output classes)</li>
-	<li>Solving the <i>Capacity Gap</i> problem and the <i>Search Problem</i> associated with finding the best checkpoint of the teacher</li>
-	<li>Theory of KD (e.g., how does KD work?) </li>
-</ul>
-
-<br>
-<b>Efficient Training.</b> How to improve the training speed of the NLP and speech models:
-<br>
-<ul>
-	<li>Improving the optimizer for faster training</li>
-	<li>Accelerated training of different tasks in NLP and speech</li>
-	<li>Distributed training,  federated learning and continual learning for NLP and speech tasks </li>
-</ul>
-
-<br>
-<b>Data Efficiency.</b> Pre-trained models rely on a huge amount of unlabeled data which makes the training very sample inefficient:
-<br>
-<ul>
-	<li>Sample efficient training, training with less data, few-shot and zero-shot learning</li>
-	<li>Sample efficient data-augmentation, identifying which training samples should be augmented</li>
-	<li>Low-resource NLP and speech, considering training tasks with limited available data</li>
-</ul>
-
-<br>
-<b>Edge Intelligence.</b>  Running the trained models on edge devices will require a conversion process to match the network with hardware specifications:
-<br>
-<ul>
-	<li>TinyML for NLP and speech on embedded systems</li>
-	<li>Efficient conversion versus hardware-aware training</li>
-	<li>Training on device</li>
-</ul>
+- Abstractive and extractive summarization
+- Language generation
+- Multiple text genres (News, tweets, product reviews, meeting conversations, forums, lectures, student feedback, emails, medical records, books, research articles, etc)
+- Multimodal Input: Information integration and aggregation across multiple modalities (text, speech, image, video)
+- Multimodal Output: Summarization and visualization + interactive exploration
+- Tailoring summaries to user queries or interests
+- Semantic aspects of summarization (e.g. semantic representation, inference, validity)
+- Development of new algorithms
+- Development of new datasets and annotations
+- Development of new evaluation metrics
+- Cognitive or psycholinguistic aspects of summarization and visualization (e.g. perceived readability, usability, etc)
 
 
 <h2 class="blackpar_title">Submission Instructions</h2>
 
 <p>
-You are invited to submit your papers in our CMT submission <a href='https://cmt3.research.microsoft.com/ENLSP2021'>portal</a>. All the submitted papers have to be anonymous for double-blind review. We expect each paper will be reviewed by at least three reviewers. The content of the paper (excluding the references and supplementary materials) should not be longer than 6 pages, strictly following the NeurIPS template style (which can be found <a href='https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles'>here</a>). 
+You are invited to submit your papers in our CMT submission <a href='https://cmt3.research.microsoft.com/Newsum2021'>portal</a>. All the submitted papers have to be anonymous for double-blind review. The content of the paper (excluding the references and supplementary materials) should not be longer than 8 pages for long papers and 4 pages for short papers, strictly following the [EMNLP 2021 style templates](https://2021.emnlp.org/call-for-papers/style-and-formatting).
 <br><br>
-Authors can submit up to 100 MB of supplementary materials separately. Authors are highly encouraged to submit their codes for reproducibility purposes. Although original submissions are preferred, submitted papers can be among your already published or ArXiv papers, and your under submission works. Please make sure to indicate the complete list of conflict of interests for all the authors of your paper. To encourage higher quality submissions, our sponsors are offering the Best Paper Award to qualified outstanding original oral and poster presentations (upon nomination of the reviewers). Bear in mind that our workshop is not archival, but the accepted papers will be hosted on the workshop website.
+  
+NewSum 2021 will allow double submission as long as the authors make a decision before camera-ready. We will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. Authors submitting more than one paper to NewSum 2021 must ensure that their submissions do not overlap significantly (>25%) with each other in content or results. Authors can submit up to 100 MB of supplementary materials separately. Authors are highly encouraged to submit their codes for reproducibility purposes. 
+
 </p>
 
-Note: <b>The submission portal will be opened on Sep. 18th AOE. </b>
+Note: <b>The submission portal will be opened on Aug. 8th AOE. </b>
 
 <br><br>
 <h2 class="blackpar_title">Important Dates:</h2>
 <ul>
-	<li>Submission Deadline: September 17, 2021</li>
-	<li>Acceptance Notification: October 22, 2021</li>
-	<li>Camera-Ready Submission: November 1, 2021</li>
-	<li>Workshop Date: December 13, 2021</li>
+  <li>Anonymity period begins: July 28, 2021</li>
+	<li>Submission Deadline: August 28, 2021</li>
+	<li>Acceptance Notification: September 24, 2021</li>
+	<li>Camera-Ready Submission: October 1, 2021</li>
+	<li>Workshop Date: November 10, 2021</li>
+  All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 </ul>
 
 <br><br>
-<!--Confirmed Spearkers-->
+<br> <br>
+<!-- Organizers -->
+<h2 class="blackpar_title" id="Organizers">Organizers</h2>
+
+<div class="row">
+    <div class="card column" style="margin-left:13%;">
+	  <img src="/images/lu_wang.png" alt="Lu Wang" class="img_card">
+	  <div class="container">
+		<center>
+		<h4>
+			<b>Lu Wang</b>
+			<br>
+			Northeastern University, USA
+		</h4>
+		</center>
+	  </div>
+	</div>
+
+    <div class="card column">
+	  <img src="/images/giuseppe_carenini.jpg" alt="Giuseppe Carenini" class="img_card">
+	  <div class="container" >
+		<center>
+		<h4>
+			<b>Giuseppe Carenini</b>
+			<br>
+			University of British Columbia, Canada
+		</h4>
+		</center>
+	  </div>
+	</div>
+  
+	<div class="card column">
+	  <img src="/images/jackie_cheung.jpg" alt="Jackie Chi Kit Cheung" class="img_card">
+	  <div class="container">
+		<center>
+		<h4>
+			<b>Jackie Chi Kit Cheung </b>
+			<br>
+			McGill University & MILA, Canada
+		</h4>
+		</center>
+	  </div>
+	</div>
+  
+  <div class="card column" >
+  <img src="/images/lu_wang.png" alt="Lu Wang" class="img_card">
+	  <div class="container">
+		<center>
+		<h4>
+			<b>[Lu Wang](https://web.eecs.umich.edu/~wangluxy/)</b>
+			<br>
+			Northeastern University, USA
+		</h4>
+		</center>
+	  </div>
+	</div>
+  
+	<div class="card column" >
+	  <img src="/images/Yue_Dong.jpg" alt="Yue Dong" class="img_card">
+	  <div class="container">
+		<center>
+		<h4>
+			<b>Yue Dong</b>
+			<br>
+			McGill University & MILA, Canada
+		</h4>
+		</center>
+	  </div>
+	</div>
+
+
+
+<br><br>
+<!-- Technical Committee -->
+<h2 class="blackpar_title" id="Technical Committee">Technical Committee</h2>
+
+<ul>
+	- Enamul Hoque (York University)
+- Jiacheng Xu (The University of Texas at Austin)
+- Rui Zhang (Penn State University)
+- Hou Pong Chan (University of Macau)
+- Yuntian Deng (Harvard University)
+- Kristjan Arumae (Amazon)
+- Xiaojun Wan (Peking University)
+- Chris Kedzie (Rasa Technologies Inc.)
+- Naoaki Okazaki (Tokyo Institute of Technology)
+- Manabu Okumura (Tokyo Institute of Technology)
+- Yang Liu (Microsoft)
+- Tadashi Nomoto (National Institute of Japanese Literature)
+- Linzi Xing (University of British Columbia)
+- Ari Rappoport (Hebrew University)
+- Felice Dell'Orletta (Istituto di Linguistica Computazionale "A. Zampolli" (CNR), Pisa, Italy)
+- Margot Mieskes (University of Applied Sciences Darmstadt, Germany)
+- Rodrigo Souza Wilkens (University of Essex)
+- Maxime Peyrard (EPFL)
+- Benoit Favre (Aix-Marseille University LIS/CNRS)
+- Tobias Falke (Amazon)
+- Thiago Alexandre Salgueiro Pardo (University of São Paulo)
+- Jessica Ouyang (University of Texas at Dallas)
+- Yashar Mehdad (Facebook AI)
+- Wencan Luo (Google)
+- Florian Boudin (Université de Nantes - France)
+- Juan-Manuel Torres-Moreno (LIA Avignon Université)
+- Michael Elhadad (Ben Gurion University)
+- Esaú Villatoro Tello (Universidad Autónoma Metropolitana Unidad Cuajimalpa, México)
+- Yuning Mao (University of Illinois at Urbana-Champaign)
+- Wen Xiao (University of British Columbia)
+- Xinyu Hua (Northeastern University)
+- Patrick Huber (University of British Columbia)
+- Abram Handler (University of Colorado)
+- Wojciech Kryściński (Salesforce Research)
+- Alexander Fabbri (Yale University)
+- Greg Durrett (UT Austin)
+- Yang Gao (Royal Holloway, University of London, UK)
+- Ramakanth Pasunuru (UNC Chapel Hill)
+- Ido Dagan (Bar-Ilan University)
+</ul>
+
+
+<!--Confirmed Spearkers
 <h2 class="blackpar_title" id="Confirmed Spearkers">Confirmed Spearkers</h2>
 <div class="row">
 	<div class="card column">
@@ -391,119 +476,3 @@ Note: <b>The submission portal will be opened on Sep. 18th AOE. </b>
 </div>
 -->
 
-<br> <br>
-<!-- Organizers -->
-<h2 class="blackpar_title" id="Organizers">Organizers</h2>
-<div class="row">
-	<div class="card column" style="margin-left:13%;">
-	  <img src="/images/Mehdi_Rezagholizadeh.jpg" alt="Mehdi Rezagholizadeh" class="img_card">
-	  <div class="container" >
-		<center>
-		<h4>
-			<b>Mehdi Rezagholizadeh</b>
-			<br>
-			Huawei Noah's Ark Lab
-		</h4>
-		</center>
-	  </div>
-	</div>
-	<div class="card column">
-	  <img src="/images/lili_mou.jpg" alt="Lili Mou" class="img_card">
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Lili Mou</b>
-			<br>
-			University of Alberta
-		</h4>
-		</center>
-	  </div>
-	</div>
-	<div class="card column" >
-	  <img src="/images/Yue_Dong.jpg" alt="Yue Dong" class="img_card">
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Yue Dong</b>
-			<br>
-			McGill University & MILA
-		</h4>
-		</center>
-	  </div>
-	</div>
-
-</div>
-<div class="row">
-	<div class="card column" style="margin-left:13%;">
-	  <img src="/images/pascal_poupart.jpg" alt="Pascal Poupart" class="img_card">
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Pascal Poupart</b>
-			<br>
-			University of Waterloo
-		</h4>
-		</center>
-	  </div>
-	</div>
-
-	<div class="card column" >
-	  <img src="/images/ali_ghodsi.jpg" alt="Ali Ghodsi" class="img_card">
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Ali Ghodsi</b>
-			<br>
-			University of Waterloo
-		</h4>
-		</center>
-	  </div>
-	</div>
-	<div class="card column">
-	  <img src="/images/qun_liu.png" alt="Qun Liu" class="img_card">
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Qun Liu</b>
-			<br>
-			Huawei Noah's Ark Lab
-		</h4>
-		</center>
-	  </div>
-	</div>
-</div>
-
-<br><br>
-<!-- Technical Committee -->
-<h2 class="blackpar_title" id="Technical Committee">Technical Committee</h2>
-
-<ul>
-	<li>Kevin Duh (Johns Hopkins University)</li>
-	<li>Bang Liu (University of Montreal (UDM))</li>
-	<li>Wulong Liu (Huawei Noah's Ark Lab)</li>
-	<li>Peyman Passban (Amazon)</li>
-	<li>Ivan Kobyzev (Huawei Noah's Ark Lab)</li>
-	<li>Jad Kabbara (McGill University & MILA)</li> 
-	<li>Aref Jafari (University of Waterloo)</li> 
-	<li>Ahmad Rashid (Huawei Noah's Ark Lab)</li> 
-	<li>Shailza Jolly (TU Kaiserslautern)</li> 
-	<li>Md. Akmal Haidar (Huawei Noah's Ark Lab)</li> 
-	<li>Jingjing Xu (ByteDance)</li> 
-	<li>Vasileios Lioutas (University of British Colombia (UBC))</li> 
-	<li>Anderson R. Avila (Huawei Noah's Ark Lab)</li> 
-	<li>Malik H. Altakrori (McGill University & MILA)</li> 
-	<li>Ali Vahdat (Thomson Reuters)</li> 
-	<li>Prasanna Parthasarathi (McGill University & MILA)</li> 
-	<li>Fattane Zarrinkalam (Thomson Reuters)</li> 
-	<li>Makesh S Narsimhan (McGill University & MILA)</li> 
-	<li>Nasrin Taghizadeh (University of Tehran)</li> 
-	<li>Borna Jafarpour (Thomson Reuters)</li> 
-	<li>Shohreh Shaghaghian (Thomson Reuters)</li> 
-	<li>Ehsan Kamalloo (University of Alberta)</li>
-	<li>Ali Saheb Pasand (University of Waterloo)</li>
-	<li>Abbas Ghaddar (Huawei Noah's Ark Lab)</li>
-	<li>Mehrdad Ganjeh (Ernst & Young (EY))</li>
-	<li>Mingxuan Wang (ByteDance)</li>
-	<li>Tanya Roosta (Amazon)</li>
-	<li>Soheila Samiee (BASF)</li>
-</ul>
