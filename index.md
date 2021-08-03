@@ -115,6 +115,8 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 		</center>
 	  </div>
 	</div>
+  
+  <div class="row">
 <div class="card column" >
   <img src="/images/fei_liu.jpeg" alt="Fei Liu" class="img_card">
 	  <div class="container">
@@ -144,8 +146,6 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
   
 <!-- Technical Committee -->
 <h2 class="blackpar_title" id="Technical Committee">Technical Committee</h2>
-
-
 - Enamul Hoque (York University)
 - Jiacheng Xu (The University of Texas at Austin)
 - Rui Zhang (Penn State University)
