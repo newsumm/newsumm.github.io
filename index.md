@@ -146,45 +146,48 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
   
 <!-- Technical Committee -->
 <h2 class="blackpar_title" id="Technical Committee">Technical Committee</h2>
-- Enamul Hoque (York University)
-- Jiacheng Xu (The University of Texas at Austin)
-- Rui Zhang (Penn State University)
-- Hou Pong Chan (University of Macau)
-- Yuntian Deng (Harvard University)
-- Kristjan Arumae (Amazon)
-- Xiaojun Wan (Peking University)
-- Chris Kedzie (Rasa Technologies Inc.)
-- Naoaki Okazaki (Tokyo Institute of Technology)
-- Manabu Okumura (Tokyo Institute of Technology)
-- Yang Liu (Microsoft)
-- Tadashi Nomoto (National Institute of Japanese Literature)
-- Linzi Xing (University of British Columbia)
-- Ari Rappoport (Hebrew University)
-- Felice Dell'Orletta (Istituto di Linguistica Computazionale "A. Zampolli" (CNR), Pisa, Italy)
-- Margot Mieskes (University of Applied Sciences Darmstadt, Germany)
-- Rodrigo Souza Wilkens (University of Essex)
-- Maxime Peyrard (EPFL)
-- Benoit Favre (Aix-Marseille University LIS/CNRS)
-- Tobias Falke (Amazon)
-- Thiago Alexandre Salgueiro Pardo (University of São Paulo)
-- Jessica Ouyang (University of Texas at Dallas)
-- Yashar Mehdad (Facebook AI)
-- Wencan Luo (Google)
-- Florian Boudin (Université de Nantes - France)
-- Juan-Manuel Torres-Moreno (LIA Avignon Université)
-- Michael Elhadad (Ben Gurion University)
-- Esaú Villatoro Tello (Universidad Autónoma Metropolitana Unidad Cuajimalpa, México)
-- Yuning Mao (University of Illinois at Urbana-Champaign)
-- Wen Xiao (University of British Columbia)
-- Xinyu Hua (Northeastern University)
-- Patrick Huber (University of British Columbia)
-- Abram Handler (University of Colorado)
-- Wojciech Kryściński (Salesforce Research)
-- Alexander Fabbri (Yale University)
-- Greg Durrett (UT Austin)
-- Yang Gao (Royal Holloway, University of London, UK)
-- Ramakanth Pasunuru (UNC Chapel Hill)
-- Ido Dagan (Bar-Ilan University)
+<ul>
+  <li>Enamul Hoque (York University)</li>
+  <li>Jiacheng Xu (The University of Texas at Austin)</li>
+  <li>Rui Zhang (Penn State University)</li>
+  <li>Hou Pong Chan (University of Macau)</li>
+  <li>Yuntian Deng (Harvard University)</li>
+  <li>Kristjan Arumae (Amazon)</li>
+  <li>Xiaojun Wan (Peking University)</li>
+  <li>Chris Kedzie (Rasa Technologies Inc.)</li>
+  <li>Naoaki Okazaki (Tokyo Institute of Technology)</li>
+  <li>Manabu Okumura (Tokyo Institute of Technology)</li>
+  <li>Yang Liu (Microsoft)</li>
+  <li>Tadashi Nomoto (National Institute of Japanese Literature)</li>
+  <li>Linzi Xing (University of British Columbia)</li>
+  <li>Ari Rappoport (Hebrew University)</li>
+  <li>Felice Dell'Orletta (Istituto di Linguistica Computazionale "A. Zampolli" (CNR), Pisa, Italy)</li>
+  <li>Margot Mieskes (University of Applied Sciences Darmstadt, Germany)</li>
+  <li>Rodrigo Souza Wilkens (University of Essex)</li>
+  <li>Maxime Peyrard (EPFL)</li>
+  <li>Benoit Favre (Aix-Marseille University LIS/CNRS)</li>
+  <li>Tobias Falke (Amazon)</li>
+  <li>Thiago Alexandre Salgueiro Pardo (University of São Paulo)</li>
+  <li>Jessica Ouyang (University of Texas at Dallas)</li>
+  <li>Yashar Mehdad (Facebook AI)</li>
+  <li>Wencan Luo (Google)</li>
+  <li>Florian Boudin (Université de Nantes - France)</li>
+  <li>Juan-Manuel Torres-Moreno (LIA Avignon Université)</li>
+  <li>Michael Elhadad (Ben Gurion University)</li>
+  <li>Esaú Villatoro Tello (Universidad Autónoma Metropolitana Unidad Cuajimalpa, México)</li>
+  <li>Yuning Mao (University of Illinois at Urbana-Champaign)</li>
+  <li>Wen Xiao (University of British Columbia)</li>
+  <li>Xinyu Hua (Northeastern University)</li>
+  <li>Patrick Huber (University of British Columbia)</li>
+  <li>Abram Handler (University of Colorado)</li>
+  <li>Wojciech Kryściński (Salesforce Research)</li>
+  <li>Alexander Fabbri (Yale University)</li>
+  <li>Greg Durrett (UT Austin)</li>
+  <li>Yang Gao (Royal Holloway, University of London, UK)</li>
+  <li>Ramakanth Pasunuru (UNC Chapel Hill)</li>
+  <li>Ido Dagan (Bar-Ilan University)</li>
+</ul>
+</p>
 
 
 
