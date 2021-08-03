@@ -65,13 +65,14 @@ Note: <b>The submission portal will be opened on Aug. 8th AOE. </b>
 
 <br><br>
 <h2 class="blackpar_title">Important Dates:</h2>
-
+All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 - Anonymity period begins: July 28, 2021
 - Submission Deadline: August 28, 2021
 - Acceptance Notification: September 24, 2021
 - Camera-Ready Submission: October 1, 2021
 - Workshop Date: November 10, 2021
-All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
+
+
 
 <br> <br>
 <!-- Organizers -->
@@ -139,6 +140,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 	</div>
 
 <br><br>
+  
 <!-- Technical Committee -->
 <h2 class="blackpar_title" id="Technical Committee">Technical Committee</h2>
 
