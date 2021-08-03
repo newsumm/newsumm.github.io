@@ -14,11 +14,8 @@ layout: home
 <h3 class="blackpar_title">the Third NewSum Workshop </h3>
 </center>
 <p>
-
-
 The Third Workshop on “New Frontiers in Summarization workshop” aims to provide a research forum for cross-fertilization of ideas in automatic summarization and related areas. This includes discussion on novel paradigms/frameworks, shared tasks of interest, information integration and presentation, applied research and applications, and possible future research foci. The workshop will pave the way towards building a cohesive research community, accelerating knowledge diffusion, developing new tools, datasets and resources that are in line with the needs of academia, industry, and government.
-
-
+</p>
 <!--	
 The workshop will take place on <span class="blackhighlighted">DATE, 2021</span>. 
 Due to the pandemic, the workshop will be <span class="blackhighlighted">VIRTUAL</span>. More details will be provided soon. 
@@ -27,11 +24,11 @@ Note that to attend the event, a registration on the ICLR website is required. A
 </p>
 <br>
 -->
+  
 <br><br>
 <h2 class="blackpar_title" id="Overview">Overview</h2>
 <p>
-New advances in natural language processing (e.g., pre-trained models with self-supervised objectives) have resulted in state-of-the-art performance according to existing standards of summarization evaluation, by effectively exploiting large-scale datasets and superior computing power. This progress now needs to be complemented in at least two ways. On the one hand, the summarization of large amounts of multimodal data (text + others) needs more sophisticated abstraction capabilities, better integration of abstraction and extraction, more flexible language generation, as well as the ability to combine language with information visualization. On the other hand, to assess the quality of such system summaries, more comprehensive evaluation metrics are needed which correlate more tightly with human judges or extrinsic task-based performance. For example, an important research topic which has emerged in the past two years is to ensure that the output summarization is factually consistent with the source text (Kryscinski et al., 2019), which has resulted in new summarization evaluation techniques focused on correctness. Both of these pillars will be crucial for realistic, ecologically valid deployment of summarization research. The goal for this workshop is to provide a research forum for cross-fertilization of ideas. We seek to bring together researchers from a diverse range of fields (e.g., summarization, visualization, language generation, cognitive and psycholinguistics) for discussion on key issues related to automatic summarization. This includes discussion on novel paradigms/frameworks, shared tasks of interest, information integration and presentation, applied research and applications, and possible future research foci. The workshop will pave the way towards building a cohesive research community, accelerating knowledge diffusion, developing new tools, datasets and resources that are in line with the needs of academia, industry, and government.
-  
+New advances in natural language processing (e.g., pre-trained models with self-supervised objectives) have resulted in state-of-the-art performance according to existing standards of summarization evaluation, by effectively exploiting large-scale datasets and superior computing power. This progress now needs to be complemented in at least two ways. On the one hand, the summarization of large amounts of multimodal data (text + others) needs more sophisticated abstraction capabilities, better integration of abstraction and extraction, more flexible language generation, as well as the ability to combine language with information visualization. On the other hand, to assess the quality of such system summaries, more comprehensive evaluation metrics are needed which correlate more tightly with human judges or extrinsic task-based performance. For example, an important research topic which has emerged in the past two years is to ensure that the output summarization is factually consistent with the source text (Kryscinski et al., 2019), which has resulted in new summarization evaluation techniques focused on correctness. Both of these pillars will be crucial for realistic, ecologically valid deployment of summarization research. The goal for this workshop is to provide a research forum for cross-fertilization of ideas. We seek to bring together researchers from a diverse range of fields (e.g., summarization, visualization, language generation, cognitive and psycholinguistics) for discussion on key issues related to automatic summarization. This includes discussion on novel paradigms/frameworks, shared tasks of interest, information integration and presentation, applied research and applications, and possible future research foci. The workshop will pave the way towards building a cohesive research community, accelerating knowledge diffusion, developing new tools, datasets and resources that are in line with the needs of academia, industry, and government
 </p>
 <br><br>
 
@@ -54,35 +51,33 @@ A list of topics relevant to this workshop (but not limited to):
 - Development of new evaluation metrics
 - Cognitive or psycholinguistic aspects of summarization and visualization (e.g. perceived readability, usability, etc)
 
-
+<br><br>
 <h2 class="blackpar_title">Submission Instructions</h2>
 
 <p>
 You are invited to submit your papers in our CMT submission <a href='https://cmt3.research.microsoft.com/Newsum2021'>portal</a>. All the submitted papers have to be anonymous for double-blind review. The content of the paper (excluding the references and supplementary materials) should not be longer than 8 pages for long papers and 4 pages for short papers, strictly following the [EMNLP 2021 style templates](https://2021.emnlp.org/call-for-papers/style-and-formatting).
-<br><br>
+<br>
   
 NewSum 2021 will allow double submission as long as the authors make a decision before camera-ready. We will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. Authors submitting more than one paper to NewSum 2021 must ensure that their submissions do not overlap significantly (>25%) with each other in content or results. Authors can submit up to 100 MB of supplementary materials separately. Authors are highly encouraged to submit their codes for reproducibility purposes. 
-
 </p>
 
 Note: <b>The submission portal will be opened on Aug. 8th AOE. </b>
 
 <br><br>
 <h2 class="blackpar_title">Important Dates:</h2>
-<ul>
-  <li>Anonymity period begins: July 28, 2021</li>
-	<li>Submission Deadline: August 28, 2021</li>
-	<li>Acceptance Notification: September 24, 2021</li>
-	<li>Camera-Ready Submission: October 1, 2021</li>
-	<li>Workshop Date: November 10, 2021</li>
-  All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
-</ul>
+
+- Anonymity period begins: July 28, 2021
+- Submission Deadline: August 28, 2021
+- Acceptance Notification: September 24, 2021
+- Camera-Ready Submission: October 1, 2021
+- Workshop Date: November 10, 2021
+All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
+
 
 <br><br>
 <br> <br>
 <!-- Organizers -->
 <h2 class="blackpar_title" id="Organizers">Organizers</h2>
-
 <div class="row">
     <div class="card column" style="margin-left:13%;">
 	  <img src="/images/lu_wang.png" alt="Lu Wang" class="img_card">
@@ -96,8 +91,7 @@ Note: <b>The submission portal will be opened on Aug. 8th AOE. </b>
 		</center>
 	  </div>
 	</div>
-
-    <div class="card column">
+<div class="card column">
 	  <img src="/images/giuseppe_carenini.jpg" alt="Giuseppe Carenini" class="img_card">
 	  <div class="container" >
 		<center>
@@ -109,8 +103,7 @@ Note: <b>The submission portal will be opened on Aug. 8th AOE. </b>
 		</center>
 	  </div>
 	</div>
-  
-	<div class="card column">
+<div class="card column">
 	  <img src="/images/jackie_cheung.jpg" alt="Jackie Chi Kit Cheung" class="img_card">
 	  <div class="container">
 		<center>
@@ -122,8 +115,7 @@ Note: <b>The submission portal will be opened on Aug. 8th AOE. </b>
 		</center>
 	  </div>
 	</div>
-  
-  <div class="card column" >
+<div class="card column" >
   <img src="/images/lu_wang.png" alt="Lu Wang" class="img_card">
 	  <div class="container">
 		<center>
@@ -135,8 +127,7 @@ Note: <b>The submission portal will be opened on Aug. 8th AOE. </b>
 		</center>
 	  </div>
 	</div>
-  
-	<div class="card column" >
+<div class="card column" >
 	  <img src="/images/Yue_Dong.jpg" alt="Yue Dong" class="img_card">
 	  <div class="container">
 		<center>
@@ -149,14 +140,12 @@ Note: <b>The submission portal will be opened on Aug. 8th AOE. </b>
 	  </div>
 	</div>
 
-
-
 <br><br>
 <!-- Technical Committee -->
 <h2 class="blackpar_title" id="Technical Committee">Technical Committee</h2>
 
-<ul>
-	- Enamul Hoque (York University)
+
+- Enamul Hoque (York University)
 - Jiacheng Xu (The University of Texas at Austin)
 - Rui Zhang (Penn State University)
 - Hou Pong Chan (University of Macau)
@@ -195,7 +184,7 @@ Note: <b>The submission portal will be opened on Aug. 8th AOE. </b>
 - Yang Gao (Royal Holloway, University of London, UK)
 - Ramakanth Pasunuru (UNC Chapel Hill)
 - Ido Dagan (Bar-Ilan University)
-</ul>
+
 
 
 <!--Confirmed Spearkers
@@ -225,138 +214,6 @@ Note: <b>The submission portal will be opened on Aug. 8th AOE. </b>
 		</center>
 	  </div>
 	</div>
-	<div class="card column">
-	  <img src="/images/kevin.jpg" alt="Kevin Duh" class="img_card">
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Prof.<br>Kevin Duh</b>
-			<br>
-			Johns Hopkins University
-		</h4>
-		</center>
-	  </div>
-	</div>
-	<div class="card column">
-	  <img src="/images/boxing.jpg" alt="Boxing Chen" class="img_card">
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Dr.<br>Boxing Chen</b>
-			<br>
-			Alibaba
-		</h4>
-		</center>
-	  </div>
-	</div>
-</div>
-
-<div class="row">
-	<div class="card column">
-	  <img src="/images/sameer_singh.jpg" alt="Saneer Singh" class="img_card">
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Prof.<br>Sameer Singh</b>
-			<br>
-			University of California
-		</h4>
-		</center>
-	  </div>
-	</div>
-	<div class="card column">
-	  <img src="/images/danqi_2019.jpg" alt="Danqi Chen" class="img_card">
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Prof.<br>Danqi Chen</b>
-			<br>
-			Princeton University
-		</h4>
-		</center>
-	  </div>
-	</div>	
-	<div class="card column">
-	  <img src="/images/norouzi.jpg" alt="Mohammad Norouzi" class="img_card">
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Dr.<br>Mohammad Norouzi</b>
-			<br>
-			Google Brain
-		</h4>
-		</center>
-	  </div>
-	</div>
-	<div class="card column">
-	  <img src="/images/Yejin.jpg" alt="Yejin Choi" class="img_card">
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Prof.<br>Yejin Choi</b>
-			<br>
-			University of Washington (Allen Institute for AI)
-		</h4>
-		</center>
-	  </div>
-	</div>
-</div>
-
-
-<div class="row">
-	<div class="card column">
-	  <img src="/images/xinjiang.jpg" alt="Xin Jiang" class="img_card">
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Dr.<br>Xin Jiang</b>
-			<br>
-			Huawei Noah's Ark Lab
-		</h4>
-		</center>
-	  </div>
-	</div>
-
-	<div class="card column">
-	  <img src="/images/xu_sun.jpg" alt="Xu Sun" class="img_card">
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Prof.<br>Xu Sun</b>
-			<br>
-			Peking University
-		</h4>
-		</center>
-	  </div>
-	</div>	
-	
-
-	<div class="card column">
-	  <img src="/images/barbara.png" alt="Barbara Plank" class="img_card">
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Prof.<br>Barbara Plank</b>
-			<br>
-			IT University of Copenhagen
-		</h4>
-		</center>
-	  </div>
-	</div>
-	
-	<div class="card column">
-	  <img src="/images/samira_ebrahimi_kahou.jpg" alt="Samira Ebrahimi Kahou" class="img_card">
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Prof.<br>Samira Ebrahimi Kahou</b>
-			<br>
-			ETS & MILA
-		</h4>
-		</center>
-	  </div>
-	</div>
-	
 </div>
 
 <br> <br>
