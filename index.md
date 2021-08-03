@@ -114,11 +114,11 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 	  </div>
 	</div>
 <div class="card column" >
-  <img src="/images/Fei_Liu.jpeg" alt="Fei Liu" class="img_card">
+  <img src="/images/fei_liu.jpeg" alt="Fei Liu" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
-			<b>[Fei Liu](http://www.cs.ucf.edu/~feiliu/)</b>
+			<a href="http://www.cs.ucf.edu/~feiliu/"><b>Fei Liu</b></a>
 			<br>
 			University of Central Florida, USA
 		</h4>
