@@ -57,7 +57,7 @@ A list of topics relevant to this workshop (but not limited to):
 <h2 class="blackpar_title">Submission Instructions</h2>
 
 
-You are invited to submit your papers in our START/SoftConf submission <a href='https:https://www.softconf.com/emnlp2021/Summarization/'>portal</a>. All the submitted papers have to be anonymous for double-blind review. The content of the paper should not be longer than 8 pages for long papers and 4 pages for short papers, strictly following the <a href='https://2021.emnlp.org/call-for-papers/style-and-formatting'>EMNLP 2021 style templates</a>.
+You are invited to submit your papers in our START/SoftConf submission <a href='https://www.softconf.com/emnlp2021/Summarization/'>portal</a>. All the submitted papers have to be anonymous for double-blind review. The content of the paper should not be longer than 8 pages for long papers and 4 pages for short papers, strictly following the <a href='https://2021.emnlp.org/call-for-papers/style-and-formatting'>EMNLP 2021 style templates</a>.
 
   
 NewSum 2021 will allow double submission as long as the authors make a decision before camera-ready. We will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. Authors submitting more than one paper to NewSum 2021 must ensure that their submissions do not overlap significantly (>25%) with each other in content or results. Authors can submit up to 100 MB of supplementary materials separately. Authors are highly encouraged to submit their codes for reproducibility purposes. 
