@@ -91,6 +91,32 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 		</center>
 	  </div>
 	</div>
+  <div class="card column" >
+  <img src="/images/fei_liu.JPG" alt="Fei Liu" class="img_card">
+	  <div class="container">
+		<center>
+		<h4>
+			<a href="http://www.cs.ucf.edu/~feiliu/"><b>Fei Liu</b></a>
+			<br>
+			University of Central Florida, USA
+		</h4>
+		</center>
+	  </div>
+	</div>
+<div class="card column" >
+	  <img src="/images/Yue_Dong.jpg" alt="Yue Dong" class="img_card">
+	  <div class="container">
+		<center>
+		<h4>
+      <a href="https://www.cs.mcgill.ca/~ydong26/"><b>Yue Dong</b></a>
+			<br>
+			McGill University & MILA, Canada
+		</h4>
+		</center>
+	  </div>
+	</div>
+</div>
+<div class="row">
 <div class="card column">
 	  <img src="/images/giuseppe_carenini.JPG" alt="Giuseppe Carenini" class="img_card">
 	  <div class="container" >
@@ -109,30 +135,6 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 		<center>
 		<h4>
 			<a href="https://www.cs.mcgill.ca/~jcheung/"><b>Jackie Chi Kit Cheung</b></a>
-			<br>
-			McGill University & MILA, Canada
-		</h4>
-		</center>
-	  </div>
-	</div>
-<div class="card column" >
-  <img src="/images/fei_liu.JPG" alt="Fei Liu" class="img_card">
-	  <div class="container">
-		<center>
-		<h4>
-			<a href="http://www.cs.ucf.edu/~feiliu/"><b>Fei Liu</b></a>
-			<br>
-			University of Central Florida, USA
-		</h4>
-		</center>
-	  </div>
-	</div>
-<div class="card column" >
-	  <img src="/images/Yue_Dong.jpg" alt="Yue Dong" class="img_card">
-	  <div class="container">
-		<center>
-		<h4>
-      <a href="https://www.cs.mcgill.ca/~ydong26/"><b>Yue Dong</b></a>
 			<br>
 			McGill University & MILA, Canada
 		</h4>
