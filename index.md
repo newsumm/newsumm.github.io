@@ -131,7 +131,6 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 		<center>
 		<h4>
       <a href="https://www.cs.mcgill.ca/~ydong26/"><b>Yue Dong</b></a>
-			
 			<br>
 			McGill University & MILA, Canada
 		</h4>
