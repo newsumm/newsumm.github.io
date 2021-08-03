@@ -66,6 +66,7 @@ Note: <b>The submission portal will be opened on Aug. 8th AOE. </b>
 <br><br>
 <h2 class="blackpar_title">Important Dates:</h2>
 All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
+
 - Anonymity period begins: July 28, 2021
 - Submission Deadline: August 28, 2021
 - Acceptance Notification: September 24, 2021
