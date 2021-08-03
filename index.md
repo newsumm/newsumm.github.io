@@ -27,11 +27,11 @@ Note that to attend the event, a registration on the ICLR website is required. A
   
 <br><br>
 <h2 class="blackpar_title" id="Overview">Overview</h2>
-<p>
+
 New advances in natural language processing (e.g., pre-trained models with self-supervised objectives) have resulted in state-of-the-art performance according to existing standards of summarization evaluation, by effectively exploiting large-scale datasets and superior computing power. This progress now needs to be complemented in at least two ways. On the one hand, the summarization of large amounts of multimodal data (text + others) needs more sophisticated abstraction capabilities, better integration of abstraction and extraction, more flexible language generation, as well as the ability to combine language with information visualization. On the other hand, to assess the quality of such system summaries, more comprehensive evaluation metrics are needed which correlate more tightly with human judges or extrinsic task-based performance. For example, an important research topic which has emerged in the past two years is to ensure that the output summarization is factually consistent with the source text (Kryscinski et al., 2019), which has resulted in new summarization evaluation techniques focused on correctness. Both of these pillars will be crucial for realistic, ecologically valid deployment of summarization research. 
-  <br>
+ 
 The goal for this workshop is to provide a research forum for cross-fertilization of ideas. We seek to bring together researchers from a diverse range of fields (e.g., summarization, visualization, language generation, cognitive and psycholinguistics) for discussion on key issues related to automatic summarization. This includes discussion on novel paradigms/frameworks, shared tasks of interest, information integration and presentation, applied research and applications, and possible future research foci. The workshop will pave the way towards building a cohesive research community, accelerating knowledge diffusion, developing new tools, datasets and resources that are in line with the needs of academia, industry, and government
-</p>
+
 <br><br>
 
 <!-- Call for Papers -->
