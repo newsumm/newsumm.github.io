@@ -4,7 +4,7 @@
 .sample-header {
   left: 0;
   top: 0;
-  width: 150%;
+  width: 100%;
   margin-top:2px;
   //margin-top: -15%;
   //margin-bottom: -15%;
@@ -60,13 +60,7 @@
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
     <!--<a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>-->
 	
-	
-	<!--
-	<div class="header">
-		<h2 id="big_name">ENLSP NeurIPS Workshop 2021</h2>
-		<h1 id="small_name">Efficient Natural Language <br> and Speech Processing</h1>
-	</div>
-	-->
+
 	
 	
 	<div class="sample-header">
@@ -100,3 +94,8 @@
     {%- endif -%}
   </div>
 </header>
+
+
+
+
+	
