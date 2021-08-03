@@ -11,7 +11,7 @@ layout: home
 <!-- <img src="/images/deep.jpg"> -->
 <center>
 <h2 class="blackpar_title"> New Frontiers in Summarization workshop </h2>
-<h3 class="blackpar_title">the Third NewSum Workshop </h3>
+<h3 class="blackpar_title">The Third NewSum Workshop </h3>
 </center>
 <p>
 The Third Workshop on “New Frontiers in Summarization workshop” aims to provide a research forum for cross-fertilization of ideas in automatic summarization and related areas. This includes discussion on novel paradigms/frameworks, shared tasks of interest, information integration and presentation, applied research and applications, and possible future research foci. The workshop will pave the way towards building a cohesive research community, accelerating knowledge diffusion, developing new tools, datasets and resources that are in line with the needs of academia, industry, and government.
