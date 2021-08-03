@@ -80,7 +80,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 <h2 class="blackpar_title" id="Organizers">Organizers</h2>
 <div class="row">
     <div class="card column" style="margin-left:13%;">
-	  <img src="/images/lu_wang.jpeg" alt="Lu Wang" class="img_card">
+	  <img src="/images/lu_wang.JPG" alt="Lu Wang" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -92,7 +92,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 	  </div>
 	</div>
 <div class="card column">
-	  <img src="/images/giuseppe_carenini.jpeg" alt="Giuseppe Carenini" class="img_card">
+	  <img src="/images/giuseppe_carenini.JPG" alt="Giuseppe Carenini" class="img_card">
 	  <div class="container" >
 		<center>
 		<h4>
@@ -104,7 +104,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 	  </div>
 	</div>
 <div class="card column">
-	  <img src="/images/jackie_cheung.jpeg" alt="Jackie Chi Kit Cheung" class="img_card">
+	  <img src="/images/jackie_cheung.JPG" alt="Jackie Chi Kit Cheung" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -118,7 +118,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
   
   <div class="row">
 <div class="card column" >
-  <img src="/images/fei_liu.jpeg" alt="Fei Liu" class="img_card">
+  <img src="/images/fei_liu.JPG" alt="Fei Liu" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
