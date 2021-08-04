@@ -63,7 +63,7 @@ You are invited to submit your papers in our <a href='https://www.softconf.com/e
 NewSum 2021 will allow double submission as long as the authors make a decision before camera-ready. We will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. Authors submitting more than one paper to NewSum 2021 must ensure that their submissions do not overlap significantly (>25%) with each other in content or results. Authors can submit up to 100 MB of supplementary materials separately. Authors are highly encouraged to submit their codes for reproducibility purposes. 
 
 
-Note: <b>The submission portal will be opened on Aug. 8th AOE. </b>
+Note: <b>The submission portal has been opened. </b>
 
 <br><br>
 <h2 class="blackpar_title">Important Dates:</h2>
