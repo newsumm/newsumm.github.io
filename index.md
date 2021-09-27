@@ -156,7 +156,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 <h2 class="blackpar_title" id="Confirmed Spearkers">Confirmed Spearkers</h2>
 <div class="row">
 	<div class="card column">
-	  <img src="/images/shashi_narayan.jpeg" alt="Shashi Narayan" class="img_card">
+	  <img src="/images/shashi.jpeg" alt="Shashi Narayan" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -168,7 +168,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 	  </div>
 	</div>
 	<div class="card column">
-	  <img src="/images/asli_celikyilmaz.jpg" alt="Asli Celikyilmaz" class="img_card">
+	  <img src="/images/asli.jpeg" alt="Asli Celikyilmaz" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -180,7 +180,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 	  </div>
 	</div>
 	<div class="card column">
-	  <img src="/images/sebastian_gehrmann.jpg" alt="Sebastian Gehrmann" class="img_card">
+	  <img src="/images/sebastian_gehrmann.jpeg" alt="Sebastian Gehrmann" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
