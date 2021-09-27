@@ -93,6 +93,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 		</center>
 	  </div>
 	</div>
+  
   <div class="card column" >
   <img src="/images/fei_liu.jpg" alt="Fei Liu" class="img_card">
 	  <div class="container">
@@ -105,6 +106,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 		</center>
 	  </div>
 	</div>
+  
 <div class="card column" >
 	  <img src="/images/Yue_Dong.jpg" alt="Yue Dong" class="img_card">
 	  <div class="container">
@@ -118,6 +120,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 	  </div>
 	</div>
 </div>
+
 <div class="row">
 <div class="card column">
 	  <img src="/images/giuseppe_carenini.JPG" alt="Giuseppe Carenini" class="img_card">
@@ -131,6 +134,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 		</center>
 	  </div>
 	</div>
+  
 <div class="card column">
 	  <img src="/images/jackie_cheung.JPG" alt="Jackie Chi Kit Cheung" class="img_card">
 	  <div class="container">
@@ -147,6 +151,52 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 
 <br><br>
   
+  
+<!--Confirmed Spearkers
+<h2 class="blackpar_title" id="Confirmed Spearkers">Confirmed Spearkers</h2>
+<div class="row">
+	<div class="card column">
+	  <img src="/images/shashi_narayan.jpeg" alt="Shashi Narayan" class="img_card">
+	  <div class="container">
+		<center>
+		<h4>
+			<a href="https://sites.google.com/view/shashinarayan/"><b>Shashi Narayan</b></a> 
+			<br>
+			Google
+		</h4>
+		</center>
+	  </div>
+	</div>
+
+	<div class="card column">
+	  <img src="/images/asli_celikyilmaz.jpg" alt="Asli Celikyilmaz" class="img_card">
+	  <div class="container">
+		<center>
+		<h4>
+      <a href="http://asli.us/"><b>Asli Celikyilmaz</b></a>
+			<br>
+			Facebook AI Research
+		</h4>
+		</center>
+	  </div>
+	</div>
+
+	<div class="card column">
+	  <img src="/images/sebastian_gehrmann.jpg" alt="Sebastian Gehrmann" class="img_card">
+	  <div class="container">
+		<center>
+		<h4>
+      <a href="https://sebastiangehrmann.com/"><b>Sebastian Gehrmann</b></a>
+			<br>
+			Google
+		</h4>
+		</center>
+	  </div>
+	</div>
+</div>
+
+<br><br>
+
 <!-- Technical Committee -->
 <h2 class="blackpar_title" id="Technical Committee">Technical Committee</h2>
 <ul>
@@ -192,34 +242,6 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 
 
 
-<!--Confirmed Spearkers
-<h2 class="blackpar_title" id="Confirmed Spearkers">Confirmed Spearkers</h2>
-<div class="row">
-	<div class="card column">
-	  <img src="/images/mirella-lapata.jpeg" alt="Mirella Lapata" class="img_card">
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Prof.<br>Mirella Lapata</b>
-			<br>
-			University of Edinburgh
-		</h4>
-		</center>
-	  </div>
-	</div>
-	<div class="card column">
-	  <img src="/images/zettlemoyer.jpg" alt="Luke Zettlemoyer" class="img_card">
-	  <div class="container">
-		<center>
-		<h4>
-			<b>Prof.<br>Luke Zettlemoyer</b>
-			<br>
-			University of Washington (Facebook)
-		</h4>
-		</center>
-	  </div>
-	</div>
-</div>
 
 <br> <br>
 <h2 class="blackpar_title" id="Schedule">Schedule (comming soon!)</h2>
