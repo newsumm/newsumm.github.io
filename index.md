@@ -152,7 +152,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 <br><br>
   
   
-<!--Confirmed Spearkers
+<!-- Confirmed Spearkers -->
 <h2 class="blackpar_title" id="Confirmed Spearkers">Confirmed Spearkers</h2>
 <div class="row">
 	<div class="card column">
