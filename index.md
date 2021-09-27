@@ -71,8 +71,8 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 
 - Anonymity period begins: July 28, 2021
 - Submission Deadline: September 3, 2021 (extended from August 28, 2021)
-- Acceptance Notification: **September 27, 2021**
-- Camera-Ready Submission: October 1, 2021
+- Acceptance Notification: **September 28, 2021** (postponed from September 27, 2021)
+- Camera-Ready Submission: September 30, 2021
 - Workshop Date: November 10, 2021
 
 
@@ -172,7 +172,6 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
   <li>Tobias Falke (Amazon)</li>
   <li>Thiago Alexandre Salgueiro Pardo (University of São Paulo)</li>
   <li>Jessica Ouyang (University of Texas at Dallas)</li>
-  <li>Yashar Mehdad (Facebook AI)</li>
   <li>Wencan Luo (Google)</li>
   <li>Florian Boudin (Université de Nantes - France)</li>
   <li>Juan-Manuel Torres-Moreno (LIA Avignon Université)</li>
