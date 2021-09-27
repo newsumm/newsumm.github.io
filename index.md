@@ -66,7 +66,7 @@ NewSum 2021 will allow double submission as long as the authors make a decision 
 Note: <b>The submission portal has been opened. </b>
 
 <br><br>
-<h2 class="blackpar_title">Important Dates:</h2>
+<h2 class="blackpar_title" id="Dates">Important Dates:</h2>
 All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 
 - Anonymity period begins: July 28, 2021
@@ -153,7 +153,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
   
   
 <!-- Confirmed Spearkers -->
-<h2 class="blackpar_title" id="Confirmed Spearkers">Confirmed Spearkers</h2>
+<h2 class="blackpar_title" id="Spearkers">Confirmed Spearkers</h2>
 <div class="row">
 	<div class="card column">
 	  <img src="/images/shashi.jpeg" alt="Shashi Narayan" class="img_card">
@@ -196,7 +196,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 <br><br>
 
 <!-- Technical Committee -->
-<h2 class="blackpar_title" id="Technical Committee">Technical Committee</h2>
+<h2 class="blackpar_title" id="Committee">Technical Committee</h2>
 <ul>
   <li>Enamul Hoque (York University)</li>
   <li>Jiacheng Xu (The University of Texas at Austin)</li>
