@@ -167,7 +167,6 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 		</center>
 	  </div>
 	</div>
-
 	<div class="card column">
 	  <img src="/images/asli_celikyilmaz.jpg" alt="Asli Celikyilmaz" class="img_card">
 	  <div class="container">
@@ -180,7 +179,6 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 		</center>
 	  </div>
 	</div>
-
 	<div class="card column">
 	  <img src="/images/sebastian_gehrmann.jpg" alt="Sebastian Gehrmann" class="img_card">
 	  <div class="container">
