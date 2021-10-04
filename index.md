@@ -195,8 +195,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 
 <br><br>
 
-<!-- Technical Committee -->
-<h2 class="blackpar_title" id="Committee">Technical Committee</h2>
+<h2 class="blackpar_title" id="Technical Committee">Technical Committee</h2>
 <ul>
   <li>Enamul Hoque (York University)</li>
   <li>Jiacheng Xu (The University of Texas at Austin)</li>
