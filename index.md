@@ -244,4 +244,12 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 <h2 class="blackpar_title" id="Schedule"><a href="https://summarization2021.github.io/schedule/"><b>Schedule</b></a></h2>
 <a href="https://summarization2021.github.io/schedule/"><b>NewSum 2021 schedule (EST/AST UTC -4)</b></a>
 
-
+<!-- Sponsors -->
+<!-- <h2 class="par_title" id="sponsors">Our sponsors</h2> -->
+<!--
+<div class="row">
+  <img class="column" src="/images/huawei.jpg">
+    <img class="column" src="/images/darwin_ai.jpg">
+  <img class="column" src="/images/huawei.jpg">
+    <img class="column" src="/images/darwin_ai.jpg">
+</div>-->
