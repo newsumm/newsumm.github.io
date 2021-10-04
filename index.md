@@ -153,7 +153,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
   
   
 <!-- Confirmed Spearkers -->
-<h2 class="blackpar_title" id="Spearkers">Confirmed Spearkers</h2>
+<h2 class="blackpar_title" id="Confirmed Spearkers">Confirmed Spearkers</h2>
 <div class="row">
 	<div class="card column">
 	  <img src="/images/shashi.jpeg" alt="Shashi Narayan" class="img_card">
@@ -194,6 +194,11 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 </div>
 
 <br><br>
+
+<br> <br>
+<h2 class="blackpar_title" id="Schedule"><a href="https://summarization2021.github.io/schedule/"><b>Schedule</b></a></h2>
+<a href="https://summarization2021.github.io/schedule/"><b>NewSum 2021 schedule (EST/AST UTC -4)</b></a>
+
 
 <h2 class="blackpar_title" id="Technical Committee">Technical Committee</h2>
 <ul>
@@ -239,16 +244,4 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 
 
 
-<br> <br>
-<h2 class="blackpar_title" id="Schedule"><a href="https://summarization2021.github.io/schedule/"><b>Schedule</b></a></h2>
-<a href="https://summarization2021.github.io/schedule/"><b>NewSum 2021 schedule (EST/AST UTC -4)</b></a>
 
-<!-- Sponsors -->
-<!-- <h2 class="par_title" id="sponsors">Our sponsors</h2> -->
-<!--
-<div class="row">
-  <img class="column" src="/images/huawei.jpg">
-    <img class="column" src="/images/darwin_ai.jpg">
-  <img class="column" src="/images/huawei.jpg">
-    <img class="column" src="/images/darwin_ai.jpg">
-</div>-->
