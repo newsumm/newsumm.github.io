@@ -197,7 +197,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 
 <br> <br>
 <h2 class="blackpar_title" id="Schedule"><b>Schedule</b></h2>
-<a href="https://summarization2021.github.io/schedule/"><b>NewSum 2021 schedule (EST/AST UTC -4)</b></a>
+<a href="https://summarization2021.github.io/schedule/"><b>NewSum 2021 schedule (9am - 6pm AST)</b></a>
 
 
 <h2 class="blackpar_title" id="Technical Committee">Technical Committee</h2>
