@@ -189,7 +189,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 			Google
       <br>
       <a href="NewSum'21_ Breaking News_ It’s time to fix the evaluation of generated text.pdf" target="_blank">
-	    <b>[Slide]</b></a> 
+	    <b>[Talk Slides]</b></a> 
 		</h4>
 		</center>
 	  </div>
