@@ -163,7 +163,10 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 			<a href="https://sites.google.com/view/shashinarayan/"><b>Shashi Narayan</b></a> 
 			<br>
 			Google
-		</h4>
+      <br>
+      <a href="NewSum 2021_Invited Talk-Shared.pdf" target="_blank">
+	    <b>[Talk Slides]</b></a> 
+      </h4>
 		</center>
 	  </div>
 	</div>
