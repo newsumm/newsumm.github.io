@@ -36,12 +36,15 @@ The goal for this workshop is to provide a research forum for cross-fertilizatio
 
 <!-- Workshop Statistics -->
 <h2 class="blackpar_title" id="Workshop Statistics">Workshop Statistics</h2>
-This year, NewSum has 319 registered attendees at EMNLP 2021 with the following distribution: 
+**Registrations:** NewSum has 319 registered attendees at EMNLP 2021 with the following distribution: 
 
 - Virtual Student: 149
 - Virtual Regular: 143
 - In-Person Student: 14
 - In-Person Regular: 13
+
+**Submissions:**  The workshop received 18 long paper submissions, of which 9 were accepted, and 14 short paper submissions, of which 7 were accepted.
+This resulted in an overall acceptance rate of 50%. In addition, we accepted 8 Findings of ACL papers.  
 <br><br>
 
 <!-- Call for Papers -->
