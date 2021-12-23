@@ -37,7 +37,7 @@ The goal for this workshop is to provide a research forum for cross-fertilizatio
 <!-- Workshop Statistics -->
 <h2 class="blackpar_title" id="Workshop Statistics">Workshop Statistics</h2>
 
-**Registrations:**  NewSum has 319 registered attendees at EMNLP 2021 with the following distribution: 
+**Registrations:**  NewSum has **319** registered attendees at EMNLP 2021 with the following distribution: 
 
 - Virtual Student: 149
 - Virtual Regular: 143
@@ -82,7 +82,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 
 - Anonymity period begins: July 28, 2021
 - Submission Deadline: September 3, 2021 (extended from August 28, 2021)
-- Acceptance Notification: **September 28, 2021** (postponed from September 27, 2021)
+- Acceptance Notification: September 28, 2021 (postponed from September 27, 2021)
 - Camera-Ready Submission: September 30, 2021
 - Workshop Date: November 10, 2021
 
