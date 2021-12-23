@@ -35,6 +35,14 @@ The goal for this workshop is to provide a research forum for cross-fertilizatio
 <br><br>
 
 <!-- Call for Papers -->
+<h2 class="blackpar_title" id="Call for Papers">Workshop Statistics</h2>
+This year, NewSum has 319 registered attendees at EMNLP 2021 with the following distribution: 
+- Virtual Student: 149
+- Virtual Regular: 143
+- In-Person Student: 14
+- In-Person Regular: 13
+
+<!-- Call for Papers -->
 <h2 class="blackpar_title" id="Call for Papers">Call for Papers</h2>
 
 Both long paper (up to 8 pages with unlimited reference) and short paper (up to 4 pages with unlimited reference) are welcomed for submission! 
@@ -61,9 +69,6 @@ You are invited to submit your papers in our <a href='https://www.softconf.com/e
 
   
 NewSum 2021 will allow double submission as long as the authors make a decision before camera-ready. We will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. Authors submitting more than one paper to NewSum 2021 must ensure that their submissions do not overlap significantly (>25%) with each other in content or results. Authors can submit up to 100 MB of supplementary materials separately. Authors are highly encouraged to submit their codes for reproducibility purposes. 
-
-
-Note: <b>The submission portal has been opened. </b>
 
 <br><br>
 <h2 class="blackpar_title" id="Dates">Important Dates:</h2>
