@@ -34,13 +34,15 @@ The goal for this workshop is to provide a research forum for cross-fertilizatio
 
 <br><br>
 
-<!-- Call for Papers -->
-<h2 class="blackpar_title" id="Call for Papers">Workshop Statistics</h2>
+<!-- Workshop Statistics -->
+<h2 class="blackpar_title" id="Workshop Statistics">Workshop Statistics</h2>
 This year, NewSum has 319 registered attendees at EMNLP 2021 with the following distribution: 
+
 - Virtual Student: 149
 - Virtual Regular: 143
 - In-Person Student: 14
 - In-Person Regular: 13
+<br><br>
 
 <!-- Call for Papers -->
 <h2 class="blackpar_title" id="Call for Papers">Call for Papers</h2>
