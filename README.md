@@ -1,1 +1,1 @@
-NewSum summarization workshop 2021
+NewSumm summarization workshop
