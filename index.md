@@ -18,9 +18,9 @@ The goal for this workshop series is to provide a research forum for cross-ferti
 
 <!-- Call for Papers -->
 <h2 class="blackpar_title"><b>Past Workshops</b></h2>
-<a href="https://newsumm.github.io/2021/"><b>The 3rd NewSumm (2021)</b></a>
-  <a href="https://summarization2019.github.io/"><b>The 2nd NewSumm (2019)</b></a>
-  <a href="https://summarization2017.github.io/"><b>The 1st NewSumm (2017)</b></a>
+<a href="https://newsumm.github.io/2021/"><b>The 3rd NewSumm (2021)</b></a> <br>
+<a href="https://summarization2019.github.io/"><b>The 2nd NewSumm (2019)</b></a> <br>
+<a href="https://summarization2017.github.io/"><b>The 1st NewSumm (2017)</b></a> <br>
 
 
 
