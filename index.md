@@ -10,7 +10,7 @@ layout: home
 
 <!-- <img src="/images/deep.jpg"> -->
 <center>
-<h2 class="blackpar_title"> New Frontiers in Summarization Workshop </h2>
+<h2 class="blackpar_title"> New Frontiers in Summarization Workshops </h2>
 <h3 class="blackpar_title">NewSumm</h3>
   
 The goal for this workshop series is to provide a research forum for cross-fertilization of ideas. We seek to bring together researchers from a diverse range of fields (e.g., summarization, visualization, language generation, cognitive and psycholinguistics) for discussion on key issues related to automatic summarization. This includes discussion on novel paradigms/frameworks, shared tasks of interest, information integration and presentation, applied research and applications, and possible future research foci. The workshop will pave the way towards building a cohesive research community, accelerating knowledge diffusion, developing new tools, datasets and resources that are in line with the needs of academia, industry, and government.
