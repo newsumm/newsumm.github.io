@@ -1,18 +1,13 @@
-title: NewSum EMNLP Workshop 2021
+title: NewSumm Workshop 
 author:
-  name: NewSum EMNLP Workshop 2021
-  email: yue.dong2@mail.mcgill.ca
+  name: NewSumm Workshop 
+  email: yuedongcs@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
   NewSum provides a research platform for cross-fertilization of ideas on key issues related to automatic summarization.
 
 # Customized links for main menu
 header_menu:
-  Overview:
-  Call for Papers:
-  Organizers:
-  Confirmed Spearkers:
-  Schedule:
-  Technical Committee:
+  Past Workshops:
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
