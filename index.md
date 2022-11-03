@@ -16,6 +16,10 @@ layout: home
 The goal for this workshop series is to provide a research forum for cross-fertilization of ideas. We seek to bring together researchers from a diverse range of fields (e.g., summarization, visualization, language generation, cognitive and psycholinguistics) for discussion on key issues related to automatic summarization. This includes discussion on novel paradigms/frameworks, shared tasks of interest, information integration and presentation, applied research and applications, and possible future research foci. The workshop will pave the way towards building a cohesive research community, accelerating knowledge diffusion, developing new tools, datasets and resources that are in line with the needs of academia, industry, and government.
 
 <br><br>
+
+<a href="https://newsumm.github.io/2023/"><b>The 4th NewSumm (TBA 2023)</b></a> <br>
+  
+<br><br>
 <!-- Call for Papers -->
 <h2 class="blackpar_title" id="Past Workshops"><b>Past Workshops</b></h2>
 <a href="https://newsumm.github.io/2021/"><b>The 3rd NewSumm (EMNLP 2021)</b></a> <br>
