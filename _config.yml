@@ -3,7 +3,7 @@ author:
   name: NewSumm Workshop 
   email: yuedongcs@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  NewSum provides a research platform for cross-fertilization of ideas on key issues related to automatic summarization.
+  NewSumm provides a research platform for cross-fertilization of ideas on key issues related to automatic summarization.
 
 # Customized links for main menu
 header_menu:
