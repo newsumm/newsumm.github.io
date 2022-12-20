@@ -17,7 +17,7 @@ The goal for this workshop series is to provide a research forum for cross-ferti
 
 <br><br>
 
-<a href="https://newsumm.github.io/2023/"><b>The 4th NewSumm (TBA 2023)</b></a> <br>
+<a href="https://newsumm.github.io/2023/"><b>The 4th NewSumm (EMNLP 2023)</b></a> <br>
   
 <br><br>
 <!-- Call for Papers -->
