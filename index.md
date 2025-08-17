@@ -17,11 +17,12 @@ The goal for this workshop series is to provide a research forum for cross-ferti
 
 <br><br>
 
-<a href="https://newsumm.github.io/2023/"><b>The 4th NewSumm (EMNLP 2023)</b></a> <br>
+<a href="https://newsumm.github.io/2025/"><b>The 5th NewSumm (EMNLP 2025)</b></a> <br>
   
 <br><br>
 <!-- Call for Papers -->
 <h2 class="blackpar_title" id="Past Workshops"><b>Past Workshops</b></h2>
+<a href="https://newsumm.github.io/2023/"><b>The 4th NewSumm (EMNLP 2023)</b></a> <br>
 <a href="https://newsumm.github.io/2021/"><b>The 3rd NewSumm (EMNLP 2021)</b></a> <br>
 <a href="https://summarization2019.github.io/"><b>The 2nd NewSumm (EMNLP 2019)</b></a> <br>
 <a href="https://summarization2017.github.io/"><b>The 1st NewSumm (EMNLP 2017)</b></a> <br>
